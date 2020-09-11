@@ -1,0 +1,15 @@
+site_name: Grupo 07
+repo_url: https://github.com/Interacao-Humano-Computador/2020.1-Grupo07TA
+repo_name: 2020.1-Grupo07TA
+nav:
+  - Home: index.md
+  - Planejamento:
+    - Cronograma: planejamento/index.md
+theme:
+  name: "material"
+  language: "pt"
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: "teal"
+    accent: "indigo"
