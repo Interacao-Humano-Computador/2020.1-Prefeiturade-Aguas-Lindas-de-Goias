@@ -4,7 +4,11 @@ repo_name: 2020.1-Grupo07TA
 nav:
   - Home: index.md
   - Planejamento:
-    - Cronograma: planejamento/index.md
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Sites Avaliados: planejamento/sites.md
+    - Site Selecionado: planejamento/site.md
+    - Processo de Design: planejamento/processo.md
 theme:
   name: "material"
   language: "pt"
