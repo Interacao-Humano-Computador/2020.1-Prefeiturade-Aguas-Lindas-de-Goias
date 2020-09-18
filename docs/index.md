@@ -63,5 +63,4 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:----:|:---------:|:-----:|
-|-|X.X| - | - |
-
+|11/09/2020 | 1.0 | Versão inicial com informações de Integrantes | Amanda Bezerra |
