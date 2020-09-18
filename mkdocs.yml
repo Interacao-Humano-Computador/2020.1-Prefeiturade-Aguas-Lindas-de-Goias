@@ -17,3 +17,5 @@ theme:
   palette:
     primary: "teal"
     accent: "indigo"
+markdown_extensions:
+  - attr_list
