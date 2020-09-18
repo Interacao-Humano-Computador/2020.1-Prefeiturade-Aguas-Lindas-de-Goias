@@ -64,6 +64,6 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:----------:|
-|11/09 |   V0   |Criação da página|Amanda|
+|11/09 |   V0   |Versão inicial com informações de integrantes|Amanda Bezerra|
 |18/09 |   V1   |Adiciona as ferramentas|Bruna e Damarcones|
 
