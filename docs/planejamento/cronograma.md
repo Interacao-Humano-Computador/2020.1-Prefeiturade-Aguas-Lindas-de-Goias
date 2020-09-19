@@ -11,6 +11,7 @@
 
 <br> </br>
 
+
 ## 2ª entrega (05/10): Organização do espaço de problema
 ### De 22/09 até 05/10
 |Tarefa|Participante(s)|Entrega|Entrega prevista|
