@@ -26,7 +26,7 @@
   <a href="https://github.com/damarcones" target="_blank" style="text-decoration: none">
     <img src="https://github.com/damarcones.png" alt="drawing" style="width:120px;border-radius: 50%;"/>
   </a>
-  <figcaption>Damarcones P</figcaption>
+  <figcaption>Damarcones P.</figcaption>
 </figure>
 <figure style="float:left;margin-right:16px;">
   <a href="https://github.com/codehg" target="_blank" style="text-decoration: none">

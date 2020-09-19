@@ -1,21 +1,22 @@
-site_name: Grupo 07
+site_name: Prefeitura de Águas Lindas de Goiás
 repo_url: https://github.com/Interacao-Humano-Computador/2020.1-Grupo07TA
 repo_name: 2020.1-Grupo07TA
 nav:
   - Home: index.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/ferramentas.md
     - Sites Avaliados: planejamento/sites.md
     - Site Selecionado: planejamento/site.md
     - Processo de Design: planejamento/processo.md
+
 theme:
+  logo: 'imagens/favicon.png' 
   name: "material"
   language: "pt"
   icon:
     repo: fontawesome/brands/github
   palette:
-    primary: "teal"
-    accent: "indigo"
+    primary: "black"
+    accent: "amber"
 markdown_extensions:
   - attr_list
