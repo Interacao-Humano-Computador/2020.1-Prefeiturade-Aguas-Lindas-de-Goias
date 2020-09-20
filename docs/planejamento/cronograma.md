@@ -2,12 +2,15 @@
 
 ## 1ª Entrega (21/09): Planejamento do Projeto
 ### De 07/09 até 21/09
+## Cronograma
 |             Tarefa              |     Participante(s)       |Entrega|Entrega prevista|
 |:-------------------------------:|:-------------------------:|:-----:|:--------------:|
 |              Wiki               | Amanda, Bruna, Damarcones | 18/09 |     19/09      |
 |           Cronograma            |         Bruna             | 17/09 |     19/09      |
 |    Lista de sites avaliados     |         Amanda            | 18/09 |     19/09      |
 |Definição dos processos de design|     Bruna e Damarcones    | 19/09 |     19/09      |
+|           Apresentação  | Hugo Amanda Bruna Damarcones andre| 19/09 |     19/09      |
+|Criação da apresentação (página e vídeo)|Hugo Aragão         | 20/09 |     20/09      | 
 
 <br> </br>
 
