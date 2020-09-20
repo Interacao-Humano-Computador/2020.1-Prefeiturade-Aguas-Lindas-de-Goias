@@ -8,6 +8,8 @@ nav:
     - Sites Avaliados: planejamento/sites.md
     - Site Selecionado: planejamento/site.md
     - Processo de Design: planejamento/processo.md
+  - Apresentacoes:
+    - Apresentacao (21/09): Apresentacoes/apresentacao-21-09.md
 
 theme:
   logo: 'imagens/favicon.png' 
