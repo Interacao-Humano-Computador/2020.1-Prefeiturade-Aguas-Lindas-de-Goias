@@ -9,7 +9,7 @@
 |           Cronograma            |         Bruna             | 17/09 |     19/09      |
 |    Lista de sites avaliados     |         Amanda            | 18/09 |     19/09      |
 |Definição dos processos de design|     Bruna e Damarcones    | 19/09 |     19/09      |
-|           Apresentação  | Hugo Amanda Bruna Damarcones andre| 19/09 |     19/09      |
+|           Apresentação  | Hugo Amanda Bruna Damarcones Andre| 19/09 |     19/09      |
 |Criação da apresentação (página e vídeo)|Hugo Aragão         | 20/09 |     20/09      | 
 
 <br> </br>
