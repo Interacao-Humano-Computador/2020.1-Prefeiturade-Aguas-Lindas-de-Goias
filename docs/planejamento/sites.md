@@ -62,6 +62,8 @@ A Página de Serviços do Governo do Distrito Federal é um site que reúne info
 <p align="justify">
 Esse site está disponível no endereço eletrônico:
 <a href="http://www.df.gov.br/category/servicos-2/">www.df.gov.br/category/servicos-2</a> e foi avaliado pelo integrante Hugo Aragão.
+
+Foi observado nesse site problemas relacionados à usabilidade como estruturas que pareciam botões mas na verdade o acesso ao link responsivo se dava através do clique na palavra correspondente, causando confusão aos usuários menos experientes e atrapalhando o engajamento do cliente com a plataforma.
 </p>
 </p>
 
@@ -72,3 +74,4 @@ Esse site está disponível no endereço eletrônico:
 |:----:|:------:|:---------:|:-----:|
 |18/09 | V0     | Criação da versão V0 | Amanda Bezerra |
 |19/09 | V1     |Adiciona informações dos sites|Bruna e Damarcones|
+|20/09 | V1.1   |Atualiza informações do site GDF| Hugo Aragão|
