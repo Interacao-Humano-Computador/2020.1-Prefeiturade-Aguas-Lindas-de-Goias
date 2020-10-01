@@ -24,4 +24,4 @@ Bruna Almeida   |17/0100626|brunaalmeidasantos
 Damarcones Porto|15/0122187|damarcones
 Hugo Aragão     |16/0124581|codehg
 
-Para acessar nossa wiki: https://interacao-humano-computador.github.io/2020.1-Grupo07TA/
+Para acessar nossa wiki: https://github.com/Interacao-Humano-Computador/2020.1-Prefeiturade-Aguas-Lindas-de-Goias
