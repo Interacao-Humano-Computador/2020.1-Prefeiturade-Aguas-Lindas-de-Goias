@@ -17,11 +17,17 @@
 
 ## 2ª entrega (05/10): Organização do espaço de problema
 ### De 22/09 até 05/10
-|Tarefa|Participante(s)|Entrega|Entrega prevista|
-|:----:|:-------------:|:-----:|:--------------:|
-|Perfil do usuário|||03/10|
-|Personas|||03/10|
-|Análise de tarefas|||03/10|
+|             Tarefa            |Participante(s)       |Entrega|Entrega prevista|
+|:-----------------------------:|:--------------------:|:-----:|:--------------:|
+|Personas                       |Bruna Almeida         |       |01/10           |
+|Questionário                   |Damarcones dos Santos |       |03/10           |
+|Entrevistas                    |Bruna e Damarcones    |       |01/10           |
+|Análise de tarefas - CMN-GOMS  |                      |       |03/10           |
+|Análise de tarefas - CPM-GOMS  |                      |       |03/10           |
+|Análise de tarefas - CTT       |                      |       |03/10           |
+|Análise de tarefas - HTA       |Hugo Aragão           |       |03/10           |
+|Análise de tarefas - KLM       |Amanda Bezerra        |       |03/10           |
+|Edição do vídeo da apresentação|Hugo Aragão           |       |04/10           |
 
 <br> </br>
 
@@ -30,3 +36,4 @@
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
 |17/09 |V0      |Adiciona cronograma da 1ª entrega|Bruna Almeida|
+|01/10 |V1      |Adiciona cronograma da 2ª entrega|Bruna Almeida|
