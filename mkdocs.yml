@@ -15,8 +15,8 @@ nav:
     - CMN-GOMS: analise_tarefas/CMN_GOMS.md
     - CPM-GOMS: analise_tarefas/CPM_GOMS.md  
   - Perfil do usuário: 
-    - Personas: perfil_usuario/perfil_personas.md
     - Questionário: perfil_usuario/questionario.md
+    - Personas: perfil_usuario/perfil_personas.md
     - Entrevista: perfil_usuario/entrevista.md
   - Apresentações:
     - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
