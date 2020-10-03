@@ -9,18 +9,19 @@ nav:
     - Site Selecionado: planejamento/site.md
     - Processo de Design: planejamento/processo.md
   - Análise de tarefas:
-    - Questionário: analise_tarefas/questionario.md
-    - Perfil do usuário: analise_tarefas/perfil_personas.md
-    - Entrevista: analise_tarefas/entrevista.md
     - HTA: analise_tarefas/HTA.md
     - KLM: analise_tarefas/KLM.md
     - CTT: analise_tarefas/CTT.md
     - CMN-GOMS: analise_tarefas/CMN_GOMS.md
     - CPM-GOMS: analise_tarefas/CPM_GOMS.md  
+  - Perfil do usuário: 
+    - Personas: perfil_usuario/perfil_personas.md
+    - Questionário: perfil_usuario/questionario.md
+    - Entrevista: perfil_usuario/entrevista.md
   - Apresentações:
     - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
 
-
+  
 theme:
   logo: 'imagens/favicon.png' 
   name: "material"
