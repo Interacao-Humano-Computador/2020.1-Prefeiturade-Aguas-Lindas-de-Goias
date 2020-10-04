@@ -21,11 +21,9 @@ estruturada em um conjunto de operadores primitivos:
 _Análise da Tarefa_: Acessar informações da Economia(PIB)
 </p>
 
-<p align=”Left”>
-
 ![klm](../imagens/klm.jpg)
 
-</p>
+
 
 ## Referências
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
