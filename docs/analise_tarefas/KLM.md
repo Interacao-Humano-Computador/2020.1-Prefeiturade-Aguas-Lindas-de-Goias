@@ -3,6 +3,7 @@
 
 **KLM** é definido como a técnica mais simples de **GOSM**, 
 estruturada em um conjunto de operadores primitivos:
+
 * **K** para pressionar tecla ou botão.
 * **P** para apontar com o mouse um alvo num dispositivo.
 * **H** para mover as mãos para o teclado ou outro dispositivo.
