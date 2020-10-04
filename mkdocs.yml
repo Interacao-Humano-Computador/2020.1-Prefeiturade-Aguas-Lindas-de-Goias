@@ -8,16 +8,16 @@ nav:
     - Sites Avaliados: planejamento/sites.md
     - Site Selecionado: planejamento/site.md
     - Processo de Design: planejamento/processo.md
+  - Perfil do usuário: 
+    - Questionário: perfil_usuario/questionario.md
+    - Personas: perfil_usuario/perfil_personas.md
+    - Entrevista: perfil_usuario/entrevista.md
   - Análise de tarefas:
     - HTA: analise_tarefas/HTA.md
     - KLM: analise_tarefas/KLM.md
     - CTT: analise_tarefas/CTT.md
     - CMN-GOMS: analise_tarefas/CMN_GOMS.md
     - CPM-GOMS: analise_tarefas/CPM_GOMS.md  
-  - Perfil do usuário: 
-    - Questionário: perfil_usuario/questionario.md
-    - Personas: perfil_usuario/perfil_personas.md
-    - Entrevista: perfil_usuario/entrevista.md
   - Apresentações:
     - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
 
