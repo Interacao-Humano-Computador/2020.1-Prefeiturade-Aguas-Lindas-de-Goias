@@ -1,8 +1,7 @@
 ## Definição
-O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e
-Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas.
-
-O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável.
+<div align="justify">
+O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010)
+</div>
 
 ## Participantes
 - Amanda Bezerra
@@ -11,13 +10,16 @@ O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hi
 | Termo    | Tradução         | Descrição                                                             |
 | -------- | ---------------- | --------------------------------------------------------------------- |
 | Goal     | Objetivo         | O que o usuário quer realizar utilizando o sistema                    |
-| OP       | Operador         | Ações concretas que o site permite que o usuário faça              |
+| OP       | Operador         | Ações concretas que o site permite que o usuário faça                 |
 | METHOD   | Método           | Sequência de subobjetivos e operadores para atingir um objetivo maior |
 | SEL.RULE | Regra de seleção | Tomada de decisão sobre qual método utilizar                          |
 
 ## Análise
+<div align="justify">
 Essa é uma análise que busca mapear a sequência e quantidade de objetivos, subobjetivos, métodos e operações utilizados para atingir algumas tarefas de caráter rotineiro do site foco desse projeto.
+
 Cabe destacar que para cada objetivo é partido do princípio que o usuário está na página inicial do site.
+</div>
 
 Abaixo está a lista de objetivos analisados.
 
@@ -93,10 +95,13 @@ Goal 0: Visualizar boletim de casos de Coronavirus de um dia específico
     OP: Clicar com botão esquerdo do mouse
 ```
 
+## Referências
++ Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento
 
-| Data  | Versão |                         Descrição                          |     Autor      |
-| :---: | :----: | :--------------------------------------------------------: | :------------: |
-| 01/10 |   V0   |                    Criação do documento                    | Bruna Almeida  |
-| 02/10 |   V0   | Adição de conteúdo nas seções definição, legenda e análise | Amanda Bezerra |
+| Data  | Versão  |                         Descrição                          |      Autor       |
+| :---: | :-----: | :--------------------------------------------------------: | :--------------: |
+| 01/10 |   V0    |                    Criação do documento                    |  Bruna Almeida   |
+| 03/10 |   V1    | Adição de conteúdo nas seções definição, legenda e análise |  Amanda Bezerra  |
+| 03/10 | Revisão |                    Revisão da versão V1                    | Damarcones Porto |
