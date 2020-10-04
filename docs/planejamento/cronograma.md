@@ -21,14 +21,14 @@ De 22/09 até 05/10
 |:-----------------------------:|:--------------------:|:----------:|:-----:|:--------------:|
 |Personas                       |Bruna Almeida         | Amanda     |03/10  |01/10           |
 |Questionário                   |Damarcones dos Santos | Amanda     |03/10  |03/10           |
-|Entrevistas                    |Bruna e Damarcones    |            |03/10  |01/10           |
+|Entrevistas                    |Bruna e Damarcones    | Amanda     |03/10  |01/10           |
 |Análise de tarefas - CMN-GOMS  |Amanda Bezerra        |Damarcones  |03/10  |03/10           |
 |Análise de tarefas - CPM-GOMS  |Damarcones            |Bruna       |04/10  |03/10           |
-|Análise de tarefas - CTT       |                      |            |       |03/10           |
-|Análise de tarefas - HTA       |Hugo Aragão           |            |03/10  |03/10           |
-|Análise de tarefas - KLM       |Hugo Aragão           |            |04/10  |03/10           |
+|Análise de tarefas - CTT       |   André Eduardo      |Bruna       |04/10  |03/10           |
+|Análise de tarefas - HTA       |Hugo Aragão           |     Bruna  |03/10  |03/10           |
+|Análise de tarefas - KLM       |Hugo Aragão           |Damarcones  |04/10  |03/10           |
 |Edição do vídeo da apresentação|Hugo Aragão           |            |       |04/10           |
-|Correção da página do site escolhido para a avaliação|Bruna e Damarcones|  |04/10|03/10|
+|Correção da página do site escolhido para a avaliação|Bruna|Damarcones|04/10|03/10|
 
 <br> </br>
 
