@@ -15,7 +15,6 @@ O site da prefeitura da cidade de [Águas Lindas de Goiás](https://aguaslindasd
 Na nossa [wiki](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias) estão dispostas todas as informações sobre o projeto, assim como as metodologias e análises
 feitas pela equipe. 
 
-<br> <br/>
 
 ### Equipe
 
