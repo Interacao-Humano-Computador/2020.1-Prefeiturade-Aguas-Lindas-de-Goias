@@ -1,4 +1,5 @@
 ## Definição
+<p align=”Justify”> 
 
 **KLM** é definido como a técnica mais simples de **GOSM**, 
 estruturada em um conjunto de operadores primitivos:
@@ -8,15 +9,21 @@ estruturada em um conjunto de operadores primitivos:
 * **D** para desenhar um segmento de reta em um _grid_.
 * **M** para se preparar mentalmente para realizar uma ação ou série de ações primitivas fortemente relacionadas entre si.
 * **R** para o tempo de resposta do sistema, durante qual o usuário precisa esperar.
-
+</p>
 
 ## Participantes
 * Hugo Aragão
 
 ## Resultados
+<p align=”Left”>
+
 _Análise da Tarefa_: Acessar informações da Economia(PIB)
+</p>
+
+<p align=”Left”>
 
 ![klm](../imagens/klm.jpg)
+</p>
 
 ## Referências
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
