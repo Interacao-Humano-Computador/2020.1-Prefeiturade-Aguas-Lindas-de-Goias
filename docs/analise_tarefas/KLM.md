@@ -1,5 +1,4 @@
 ## Definição
-<div align="justify">
 
 **KLM** é definido como a técnica mais simples de **GOSM**, 
 estruturada em um conjunto de operadores primitivos:
