@@ -51,7 +51,7 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
         <p align = "justify"> - Categoria: Persona primária;</p>
         <p align = "justify"> - Idade: 23 anos;</p>
         <p align = "justify"> - Escolaridade: Ensino médio completo;</p>
-        <p align = "justify"> - Cargo: Mecânico;/p>
+        <p align = "justify"> - Cargo: Mecânico;</p>
         <p align = "justify"> - Renda mensal: R$ 2.000;</p>
         <p align = "justify"> - Ramo de atuação: Mecânica automotiva;</p>
         <p align = "justify"> - Região de moradia: Bairro Guaíra, Águas Lindas.</p>
