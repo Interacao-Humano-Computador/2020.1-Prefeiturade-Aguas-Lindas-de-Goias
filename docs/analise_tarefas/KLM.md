@@ -24,6 +24,7 @@ _Análise da Tarefa_: Acessar informações da Economia(PIB)
 <p align=”Left”>
 
 ![klm](../imagens/klm.jpg)
+
 </p>
 
 ## Referências
