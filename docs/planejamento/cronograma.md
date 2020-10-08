@@ -32,9 +32,24 @@ De 22/09 até 05/10
 
 <br> </br>
 
+
+## 3ª entrega (15/10): Análise de requisitos
+De 06/10 até 15/10
+
+|             Tarefa               |Participante(s)                 |Revisado por|Entrega|Entrega prevista|
+|:--------------------------------:|:------------------------------:|:----------:|:-----:|:--------------:|
+|Características da plataforma     |Hugo Aragão                     |            |       |10/10           |
+|Princípios e diretrizes do projeto|                                |            |       |10/10           |
+|Metas de usabilidade              |                                |            |       |11/10           |
+|Guia de estilo                    |Bruna Almeida e Damarcones Porto|            |       |13/10           |
+|Edição do vídeo da apresentação   |Hugo Aragão                     |            |       |14/10           |
+
+<br> </br>
+
 ## Versionamento
 
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
 |17/09 |V0      |Adiciona cronograma da 1ª entrega|Bruna Almeida|
 |01/10 |V1      |Adiciona cronograma da 2ª entrega|Bruna Almeida|
+|08/10 |V2      |Adiciona cronograma da 3ª entrega|Bruna Almeida|
