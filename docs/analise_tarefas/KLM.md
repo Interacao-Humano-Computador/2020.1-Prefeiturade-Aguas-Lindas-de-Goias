@@ -1,7 +1,7 @@
 ## Definição
 <p align=”Justify”> 
 
-**KLM** é definido como a técnica mais simples de **GOSM**, 
+**KLM** é definido como a técnica mais simples de **GOMS**, 
 estruturada em um conjunto de operadores primitivos:
 
 * **K** para pressionar tecla ou botão.

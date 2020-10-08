@@ -2,7 +2,7 @@
 
 ### Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT)
 
-O modelo de árvores de tarefas concorrentes tem como objetivo auxiliar a avaliação e o design e avaliação de IHC.
+O modelo de árvores de tarefas concorrentes tem como objetivo auxiliar o design e avaliação de IHC.
 O modelo propõe as seguintes tarefas:<br>
 
 - **tarefas do usuário**, realizadas fora do sistema;<br>
