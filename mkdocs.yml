@@ -17,7 +17,12 @@ nav:
     - KLM: analise_tarefas/KLM.md
     - CTT: analise_tarefas/CTT.md
     - CMN-GOMS: analise_tarefas/CMN_GOMS.md
-    - CPM-GOMS: analise_tarefas/CPM_GOMS.md  
+    - CPM-GOMS: analise_tarefas/CPM_GOMS.md
+  - Análise de requisitos:
+    - Características da plataforma: analise_requisitos/caracteristicas_plataforma.md
+    - Princípios e diretrizes do projeto: analise_requisitos/principios_diretrizes.md
+    - Metas de usabilidade: analise_requisitos/metas_usabilidade.md
+    - Guia de estilo: analise_requisitos/guia_estilo.md
   - Apresentações:
     - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
     - Apresentação - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md
