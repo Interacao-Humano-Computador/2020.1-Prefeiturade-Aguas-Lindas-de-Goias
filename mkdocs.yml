@@ -3,8 +3,8 @@ repo_url: https://github.com/Interacao-Humano-Computador/2020.1-Prefeiturade-Agu
 repo_name: 2020.1-Prefeiturade-Aguas-Lindas-de-Goias
 nav:
   - Home: index.md
+  - Cronograma de atividades: planejamento/cronograma.md
   - Planejamento:
-    - Cronograma: planejamento/cronograma.md
     - Sites Avaliados: planejamento/sites.md
     - Site Selecionado: planejamento/site.md
     - Processo de Design: planejamento/processo.md
