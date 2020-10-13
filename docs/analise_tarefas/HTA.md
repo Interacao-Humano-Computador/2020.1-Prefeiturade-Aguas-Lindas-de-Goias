@@ -1,8 +1,8 @@
 ## Definição
 
-<div align="justify">
+<p align="justify">
 Segundo o livro Interação Humano Computador(Simone e Bruno), a Análise Hierárquica de Tarefas (HTA), foi desenvolvida para atender as competências e habilidades exibidas em tarefas complexas não repetitivas, bem como auxiliar na identificação de problemas de desempenho. Essa metodologia traz como conceitos chave:
-
+</p>
 
 * Uma **tarefa** é definida como qualquer parte do tabalho a ser realizado.
 * Um **objetivo** é um estado específico de coisas, um estado final.
@@ -11,15 +11,19 @@ Segundo o livro Interação Humano Computador(Simone e Bruno), a Análise Hierá
 *  Uma **ação** pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o _**input**_ como estados e o _**feedback**_ como testes ou avaliação do estado final.
 
 ## Participantes
+
 * Hugo Aragão
 
 ## Resultados
 
 ![Diagrama HTA, para o objetivo de obter informações](../imagens/htainformacoes.jpg)
-<br>
+
+<br></br>
+
 1.Diagrama HTA, para o objetivo de obter informações
 
 ## Referências
+
 + Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento
