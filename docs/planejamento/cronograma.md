@@ -41,8 +41,8 @@ De 06/10 até 15/10
 |Características da plataforma     |Hugo Aragão                     |Bruna e Damarcones  |12/10  |10/10   |
 |Princípios e diretrizes do projeto|André Eduardo                   |Bruna e Damarcones  |13/10  |10/10   |
 |Metas de usabilidade              |Amanda Bezerra                  |Bruna e Damarcones  |12/10  |11/10   |
-|Guia de estilo                    |Bruna Almeida e Damarcones Porto|            |13/10  |13/10           |
-|Edição do vídeo da apresentação   |Hugo Aragão                     |            |       |14/10           |
+|Guia de estilo                    |Bruna Almeida e Damarcones Porto|Amanda      |13/10  |13/10           |
+|Edição do vídeo da apresentação   |Hugo Aragão                     |------------|14/10  |14/10           |
 
 <br> </br>
 
