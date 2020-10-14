@@ -2,7 +2,7 @@
 
 <div class=toolgrid>
 	<div> <p align = "center">
-		<img src= "../../imagens/prefeituraALG.jpg" width="250">
+		<img src= "../../imagens/prefeituraALG.jpg" width="700">
 	</div>
 </div>
 

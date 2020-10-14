@@ -38,9 +38,9 @@ De 06/10 até 15/10
 
 |             Tarefa               |Participante(s)                 |Revisado por|Entrega|Entrega prevista|
 |:--------------------------------:|:------------------------------:|:----------:|:-----:|:--------------:|
-|Características da plataforma     |Hugo Aragão                     |            |12/10  |10/10           |
-|Princípios e diretrizes do projeto|André Eduardo                   |            |13/10  |10/10           |
-|Metas de usabilidade              |Amanda Bezerra                  |            |12/10  |11/10           |
+|Características da plataforma     |Hugo Aragão                     |Bruna e Damarcones  |12/10  |10/10   |
+|Princípios e diretrizes do projeto|André Eduardo                   |Bruna e Damarcones  |13/10  |10/10   |
+|Metas de usabilidade              |Amanda Bezerra                  |Bruna e Damarcones  |12/10  |11/10   |
 |Guia de estilo                    |Bruna Almeida e Damarcones Porto|            |13/10  |13/10           |
 |Edição do vídeo da apresentação   |Hugo Aragão                     |            |       |14/10           |
 
