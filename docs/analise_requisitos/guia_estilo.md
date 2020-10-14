@@ -12,7 +12,7 @@
 <br>
 </figure>
 
-<p align = "justify">Como demonstrado acima, a partir do perfil de usuário, a análise de tarefas, as características da plataforma e os príncipios gerais do projeto, é possível definir as metas de usabilidade e, a partir daí, projetar o guia de estilo, que será apresentado seguidamente.</p>
+<p align = "justify">Como demonstrado acima, a partir do perfil de usuário, a análise de tarefas, as características da plataforma e os princípios gerais do projeto, é possível definir as metas de usabilidade e, a partir daí, projetar o guia de estilo, que será apresentado seguidamente.</p>
 
 
 ## Participantes
@@ -23,10 +23,10 @@
 ## 1 INTRODUÇÃO
 <!--  -->
 ### 1.1 Objetivo do guia de estilo
-<p align = "justify">O objetivo desse guia de estilo é documentar as características do site avaliado e registrar as principais escolhar de design tomadas pelos desenvolvedores. As informações descritas a seguir serão utilizadas, principalmente, no desenvolvimento de um protótipo. </p>
+<p align = "justify">O objetivo desse guia de estilo é documentar as características do site avaliado e registrar as principais escolhas de design tomadas pelos desenvolvedores. As informações descritas a seguir serão utilizadas, principalmente, no desenvolvimento de um protótipo. </p>
 
 ### 1.2 Organização e conteúdo do guia de estilo
-<p align = "justify">Este Guia de Estilo está organizado no GitPages, afim de fonecer uma maior clareza sobre a consulta do layout e principais características do site.</p>
+<p align = "justify">Este Guia de Estilo está organizado no GitPages, afim de fornecer uma maior clareza sobre a consulta do layout e principais características do site.</p>
 
 ### 1.3 Público-alvo do guia de estilos
 <p align = "justify">O público alvo desse guia são os próprios integrantes da equipe, que está propondo uma reestruturação do site.</p>
@@ -161,7 +161,7 @@
 ## 5 ELEMENTOS DE AÇÃO
 <!--  -->
 ### 5.1 Preenchimento de campos
-<p align = "justify">Para solicitar o recebimento de informaçẽos por e-mail, o usuário deve preencher as seguintes informações a seguir, sem isso fica impossibilitado de realizar a ação.</p>
+<p align = "justify">Para solicitar o recebimento de informações por e-mail, o usuário deve preencher as seguintes informações a seguir, sem isso fica impossibilitado de realizar a ação.</p>
 
 <figure>
 <img align=center width="300" src="../../imagens/guia/receber_informacoes.png">
@@ -179,7 +179,7 @@
 ## 6 VOCABULÁRIO E PADRÕES
 <!--  -->
 ### 6.1 Terminologia
-<p align = "justify">A linguagem utilizada no site é bem simples e de fácil entendimento, exceto termos ligados ao poder administrativo, esses não são passíveis de alterações por se tratarem de palavras especifícas da adminsitração pública.</p>
+<p align = "justify">A linguagem utilizada no site é bem simples e de fácil entendimento, exceto termos ligados ao poder administrativo, esses não são passíveis de alterações por se tratarem de palavras específicas da adminsitração pública.</p>
 
 ### 6.2 Tipos de tela
 <p align = "justify">O site possui uma tela padrão para todas as suas páginas, fora aqueles serviços que são realizados obrigatoriamente fora dele, dando assim, uma sensação de conforto para o usuário por não se deparar com ambientes totalmente desconhecidos.</p>
