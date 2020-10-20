@@ -1,8 +1,12 @@
-# Grupo 07
+# **Grupo 07 - Prefeitura de Águas Lindas de Goiás**
+
+<div><p align = "justify">
+Repositório destinado à matéria de Interação Humano-Computador da Universidade de Brasília, no semestre de 2020.1. Nosso objetivo é analisar o site da prefeitura da cidade de Águas Lindas de Goiás, de acordo com os assuntos abordados durante todo o semestre.
+</p></div>
 
 ##
 
-## Integrantes
+## **Integrantes**
 
 <figure style="float:left;margin-right:16px;">
   <a href="https://github.com/amandabezerra/" target="_blank" style="text-decoration: none">
@@ -37,8 +41,7 @@
 
 <br clear="all">
 
-##   Ferramentas
-<!-- ## Ferramentas  -->
+##   **Ferramentas**
 
 <div class=toolgrid>
 	<div> <p align = "center">
@@ -62,8 +65,14 @@
 
 ## Versionamento
 
-| Data | Versão | Descrição | Autor |
-|:----:|:------:|:---------:|:----------:|
-|11/09 |   V0   |Versão inicial com informações de integrantes|Amanda Bezerra|
-|18/09 |   V1   |Adiciona as ferramentas|Bruna e Damarcones|
+| Data | Versão |               Descrição                     |      Autor       |
+|:----:|:------:|:-------------------------------------------:|:----------------:|
+|11/09 |   V0   |Versão inicial com informações de integrantes|Amanda Bezerra    |
+|18/09 |   V1   |Adiciona as ferramentas                      |Bruna e Damarcones|
+|20/10 |   V2   |Atualiza home                                |Bruna Almeida     |
 
+<br></br>
+
+<div> <p align = "center">
+	<img src="./imagens/unb-fga-extenso.jpg" width="700">
+</div>
