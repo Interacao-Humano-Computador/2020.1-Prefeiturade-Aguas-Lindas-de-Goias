@@ -49,15 +49,18 @@ De 06/10 até 15/10
 ## 4ª entrega (29/10): StoryBoards
 De 16/10 até 29/10
 
-|               Tarefa                              |  Participante(s)   |  Revisado por  |Entrega|Entrega prevista|
-|:-------------------------------------------------:|:------------------:|:--------------:|:-----:|:--------------:|
-|Planejamento da avaliação                          |Todos os integrantes|     ------     | 20/10 | 20/10          |
-|StoryBoard 1 - Acessar informações da economia     |Hugo Aragão         |                |       | 26/10          |
-|StoryBoard 2 - Buscar notícias                     |André Eduardo       |                |       | 26/10          |
-|StoryBoard 3 - Copiar telefone de contato          |Damarcones Porto    |                |       | 26/10          |
-|StoryBoard 4 - Baixar formulário para reclamação   |Bruna Almeida       |                |       | 26/10          |
-|StoryBoard 5 - Visualizar boletim sobre Coronavírus|Amanda Bezerra      |                |       | 26/10          |
-|Gravar apresentação                                |Todos os integrantes|     ------     |       | 28/10          |
+|               Tarefa                      |  Participante(s)   |  Revisado por  |Entrega|Entrega prevista|
+|:-----------------------------------------:|:------------------:|:--------------:|:-----:|:--------------:|
+|Planejamento da avaliação                  |Todos os integrantes|     ------     | 20/10 | 20/10          |
+|StoryBoard 1                               |Hugo Aragão         |                |       | 26/10          |
+|StoryBoard 2                               |André Eduardo       |                |       | 26/10          |
+|StoryBoard 3                               |Damarcones Porto    |                |       | 26/10          |
+|StoryBoard 4                               |Bruna Almeida       |                |       | 26/10          |
+|StoryBoard 5                               |Amanda Bezerra      |                |       | 26/10          |
+|Fazer linkagem das páginas dos storyboards |Damarcones Porto    |Bruna Almeida   | 21/10 | 21/10          |
+|Fazer introdução para os storyboards       |Bruna Almeida       |Damarcones Porto| 21/10 | 21/10          |
+|Gravar apresentação                        |Todos os integrantes|     ------     |       | 28/10          |
+|Editar vídeo da apresentação               |Hugo Aragão         |                |       | 28/10          |
 
 <br> </br>
 
