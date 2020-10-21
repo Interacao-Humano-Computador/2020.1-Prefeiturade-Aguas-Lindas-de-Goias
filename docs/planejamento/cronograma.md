@@ -46,6 +46,22 @@ De 06/10 até 15/10
 
 <br> </br>
 
+## 4ª entrega (29/10): StoryBoards
+De 16/10 até 29/10
+
+|               Tarefa                              |  Participante(s)   |  Revisado por  |Entrega|Entrega prevista|
+|:-------------------------------------------------:|:------------------:|:--------------:|:-----:|:--------------:|
+|Planejamento da avaliação                          |Todos os integrantes|     ------     | 20/10 | 20/10          |
+|StoryBoard 1 - Acessar informações da economia     |Hugo Aragão         |                |       | 26/10          |
+|StoryBoard 2 - Buscar notícias                     |André Eduardo       |                |       | 26/10          |
+|StoryBoard 3 - Copiar telefone de contato          |Damarcones Porto    |                |       | 26/10          |
+|StoryBoard 4 - Baixar formulário para reclamação   |Bruna Almeida       |                |       | 26/10          |
+|StoryBoard 5 - Visualizar boletim sobre Coronavírus|Amanda Bezerra      |                |       | 26/10          |
+|Gravar apresentação                                |Todos os integrantes|     ------     |       | 28/10          |
+
+<br> </br>
+
+
 ## Versionamento
 
 | Data | Versão |           Descrição             |    Autor    |
@@ -53,3 +69,4 @@ De 06/10 até 15/10
 |17/09 |V0      |Adiciona cronograma da 1ª entrega|Bruna Almeida|
 |01/10 |V1      |Adiciona cronograma da 2ª entrega|Bruna Almeida|
 |08/10 |V2      |Adiciona cronograma da 3ª entrega|Bruna Almeida|
+|21/10 |V3      |Adiciona cronograma da 4ª entrega|Bruna Almeida|
