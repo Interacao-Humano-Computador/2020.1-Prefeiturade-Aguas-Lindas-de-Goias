@@ -1,4 +1,4 @@
-# Cronograma
+# Cronograma 
 
 ## 1ª Entrega (21/09): Planejamento do Projeto
 De 07/09 até 21/09
@@ -57,6 +57,15 @@ De 16/10 até 29/10
 |StoryBoard 3                               |Damarcones Porto    |                |       | 26/10          |
 |StoryBoard 4                               |Bruna Almeida       |                |       | 26/10          |
 |StoryBoard 5                               |Amanda Bezerra      |                |       | 26/10          |
+|Teste-piloto: tarefa 1                     |Hugo Aragão         |                |       | 27/10          |
+|Teste-piloto: tarefa 2                     |André Eduardo       |                |       | 27/10          |
+|Teste-piloto: tarefa 3                     |Damarcones Porto    |                |       | 27/10          |
+|Teste-piloto: tarefa 4                     |Bruna Almeida       |                |       | 27/10          |
+|Teste-piloto: tarefa 5                     |Amanda Bezerra      |                |       | 27/10          |
+|Refatoração - Estrutura da análise de tarefas|Damarcones Porto  |                | 25/10 | 25/10          |
+|Refatoração - Guia de estilo               |Bruna e Damarcones  |                |       | 28/10          |
+|Refatoração - Metas de usabilidade         |Amanda Bezerra      |                |       | 28/10          |
+|Refatoração - Princípios e diretrizes      |André Eduardo       |                |       | 28/10          |
 |Fazer linkagem das páginas dos storyboards |Damarcones Porto    |Bruna Almeida   | 21/10 | 21/10          |
 |Fazer introdução para os storyboards       |Bruna Almeida       |Damarcones Porto| 21/10 | 21/10          |
 |Gravar apresentação                        |Todos os integrantes|     ------     |       | 28/10          |

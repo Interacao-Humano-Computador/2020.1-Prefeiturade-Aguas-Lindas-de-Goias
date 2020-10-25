@@ -13,11 +13,13 @@ nav:
     - Personas: perfil_usuario/perfil_personas.md
     - Entrevista: perfil_usuario/entrevista.md
   - Análise de tarefas:
-    - HTA: analise_tarefas/HTA.md
-    - KLM: analise_tarefas/KLM.md
-    - CTT: analise_tarefas/CTT.md
-    - CMN-GOMS: analise_tarefas/CMN_GOMS.md
-    - CPM-GOMS: analise_tarefas/CPM_GOMS.md
+    - Tarefas Analisadas: analise_tarefas/AnaliseTarefas.md
+    # - HTA: analise_tarefas/HTA.md
+    # - KLM: analise_tarefas/KLM.md
+    # - CTT: analise_tarefas/CTT.md
+    # - CMN-GOMS: analise_tarefas/CMN_GOMS.md
+    # - CPM-GOMS: analise_tarefas/CPM_GOMS.md
+    - Testes-piloto: analise_tarefas/TestePiloto.md
   - Análise de requisitos:
     - Características da plataforma: analise_requisitos/caracteristicas_plataforma.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios_diretrizes.md
