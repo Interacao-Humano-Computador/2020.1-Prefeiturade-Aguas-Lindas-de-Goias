@@ -1,4 +1,8 @@
-# **StoryBoard: Visualizar boletim de casos de Coronavírus de um dia específico**
+# StoryBoard: Visualizar boletim de casos de Coronavírus de um dia específico
+
+## Participante(s)
+- 
+
 
 <!-- <figure>
 <img align=center width="700" src="endereco da imagem">
@@ -6,11 +10,25 @@
 <figcaption>Fig. n - descricao da imagem</figcaption>
 </figure> -->
 
-## Análise da tarefa
+## Pessoas envolvidas
 
 
-## Resultado
+## Ambiente
 
+
+## Tarefa
+
+
+## Passos envolvidos
+
+
+## Motivação para o uso da aplicação
+
+
+## Resultado (satisfação)
+
+
+<br>
 
 ## Referências
 
