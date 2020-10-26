@@ -1,9 +1,9 @@
-# StoryBoard: Visualizar boletim de casos de Coronavírus de um dia específico
+# StoryBoard: Visualizar boletim de casos de Coronavírus
 
 [ ![](../imagens/storyboard/storyboard_5.png) ](../imagens/storyboard/storyboard_5.png)
 <p align = "center">
 <i>
-Fig. 1 - Storyboard criado em [StoryboardThat](https://www.storyboardthat.com/).
+Criado por Amanda Bezerra em [StoryboardThat](https://www.storyboardthat.com/).
 </i>
 </p>
 
