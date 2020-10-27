@@ -70,9 +70,11 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
     <p align = "justify">
     Para Lucas, seria muito interessante que existisse no site, uma página dedicada aos eventos que irão ocorrer na cidade, e que fosse atualizada frequentemente. Atualmente, Lucas busca essas informações com amigos e grupos nas redes sociais no qual ele faz parte.
     </p>
+    </div>
 </div>
 
 ### **Marta Sales**
+
 <div class="toolgrid">
 	<div>
         <img align=left width="300" src="../../imagens/personas/persona_marta.jpg"> 
@@ -96,6 +98,7 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
     <p align = "justify">
     Devido a um trabalho escolar, Marta acessou o site da Prefeitura de Águas Lindas, para buscar informações sobre a história da cidade. Porém, a história disponível no site é escassa de informações, e Marta não consegue desenvolver um bom trabalho somente com essas informações. Para ela, seria ideal que o site disponibilizasse uma página que possuísse mais conteúdo sobre a história da cidade, como fotos e relatos, por exemplo.
     </p>
+    </div>
 </div>
 
 ### **Roberto Martins**
@@ -125,6 +128,7 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
     <p align = "justify">
     Atualmente, ele precisa garimpar essas informações na página de notícias gerais da cidade, o que toma um certo tempo e isso o incomoda.
     </p>
+    </div>
 </div>
 
 ### **Carla Leite**
@@ -155,6 +159,7 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
     <p align = "justify">
     Resumindo, Carla não é uma influenciadora no processo de desenvolvimento do site da prefeitura de Águas Lindas.
     </p>
+    </div>
 </div>
 <br>
 
