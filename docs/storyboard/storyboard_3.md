@@ -82,7 +82,7 @@ O personagem fictício a seguir estão envolvidos no Storyboard:
 <ul>
 <li><p align="justify">Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.</p></li>
 <li>Storyboard criado na plataforma <a href= "https://canva.com/">Canva</a>.</li>
-<li>Vídeo inspirativo <a href="https://www.youtube.com/watch?v=wWGBLHHx0qw">Amazon Locker Delivery</a>.</li>
+<li>Vídeo inspirativo <a href="https://www.youtube.com/watch?v=wWGBLHHx0qw">Amazon Locker Delivery</a>.Acesso em 25/10/2020.</li>
 </ul>
 
 ## Versionamento
