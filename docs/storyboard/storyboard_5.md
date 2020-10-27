@@ -55,7 +55,7 @@ Os personagens fictícios a seguir estão envolvidos no Storyboard:
 [ ![](../imagens/storyboard/storyboard_5.png) ](../imagens/storyboard/storyboard_5.png)
 <p align = "center">
 <i>
-Criado por Amanda Bezerra em [StoryboardThat](https://www.storyboardthat.com/).
+Criado por Amanda Bezerra em <a href= "https://www.storyboardthat.com/">StoryboardThat</a>.
 </i>
 </p>
 
