@@ -52,7 +52,7 @@ De 16/10 até 29/10
 |               Tarefa                      |  Participante(s)   |  Revisado por  |Entrega|Entrega prevista|
 |:-----------------------------------------:|:------------------:|:--------------:|:-----:|:--------------:|
 |Planejamento da avaliação                  |Todos os integrantes|     ------     | 20/10 | 20/10          |
-|StoryBoard 1                               |Hugo Aragão         |                |       | 26/10          |
+|StoryBoard 1                               |Hugo Aragão         |                | 26/10 | 26/10          |
 |StoryBoard 2                               |André Eduardo       |                |       | 26/10          |
 |StoryBoard 3                               |Damarcones Porto    |                |       | 26/10          |
 |StoryBoard 4                               |Bruna Almeida       |                |       | 26/10          |
