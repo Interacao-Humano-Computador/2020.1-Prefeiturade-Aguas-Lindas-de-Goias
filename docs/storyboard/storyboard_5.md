@@ -9,7 +9,7 @@
 
 Os personagens fictícios a seguir estão envolvidos no Storyboard:
 
-- Marta Sales, estudante de 17 anos e moradora de Águas Lindas de Goiás.
+- Persona [Marta Sales](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/perfil_personas/), estudante de 17 anos e moradora de Águas Lindas de Goiás.
 - Lúcia Sales, tia de Marta e também moradora de Águas Lindas de Goiás.
 
 ### Definição do ambiente da história
