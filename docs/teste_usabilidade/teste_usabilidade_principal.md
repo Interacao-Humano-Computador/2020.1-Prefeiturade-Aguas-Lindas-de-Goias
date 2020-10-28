@@ -2,8 +2,8 @@
 
 ## Definição
 <div>
-    <p align = "justify">O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008). Os objetivos da avaliação determinam quais critérios de usabilidade devem ser medidos. Para realizar as medições desejadas, um grupo de usuários é convidado a realizar um conjunto de tarefas usando o sistema num ambiente controlado, como um laboratório. Durante as experiências de uso observadas, são registrados vários dados sobre o desempenho dos participantes na realização das tarefas e suas opiniões e sentimentos decorrentes de suas experiências de uso.<p>
-    <p align = "justify">A Tabela a seguir apresenta as atividades do teste de usabilidade.<p>
+    <p align = "justify">O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008). Os objetivos da avaliação determinam quais critérios de usabilidade devem ser medidos. Para realizar as medições desejadas, um grupo de usuários é convidado a realizar um conjunto de tarefas usando o sistema num ambiente controlado, como um laboratório. Durante as experiências de uso observadas, são registrados vários dados sobre o desempenho dos participantes na realização das tarefas e suas opiniões e sentimentos decorrentes de suas experiências de uso.</p>
+    <p align = "justify">A Tabela a seguir apresenta as atividades do teste de usabilidade.</p>
 </div>
 
 <figure>
@@ -15,7 +15,7 @@
 ## Teste de usabilidade - Tarefas analisadas
 
 <div>
-<p align = "justify">Nos testes de usabilidade apresentados a seguir, foram avaliados os storyboards e as análises das tarefas. Cada integrante aplicou o teste na tarefa e no storyboard que desenvolveu, seguindo os passos descritos na tabela mostrada acima.<p>
+<p align = "justify">Nos testes de usabilidade apresentados a seguir, foram avaliados os <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/storyboard/storyboard_principal/">storyboards</a> e as <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/AnaliseTarefas/">análises das tarefas</a>. Cada integrante aplicou o teste na tarefa e no storyboard que desenvolveu, seguindo os passos descritos na tabela mostrada acima.</p>
 
 <p><a href="../tu_1">Teste de usabilidade: Acessar informações da economia</a></p>
 <p><a href="../tu_2">Teste de usabilidade: Buscar notícias</a></p>

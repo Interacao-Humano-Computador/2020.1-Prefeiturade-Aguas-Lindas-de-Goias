@@ -6,8 +6,8 @@
 ## Preparo
 
 ### Definição das pessoas envolvidas
-- Persona: <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/perfil_personas/#diana-carvalho">Diana Carvalho</a>;
-- Paula Carvalho, mãe de Diana.
+- Persona: <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/perfil_personas/#diana-carvalho">Diana Carvalho</a>, 21 anos, moradora de Águas Lindas;
+- Paula Carvalho, mãe de Diana, 45 anos, também moradora de Águas Lindas.
 
 ### Definição do ambiente da historia
 - Casa da própria Diana.

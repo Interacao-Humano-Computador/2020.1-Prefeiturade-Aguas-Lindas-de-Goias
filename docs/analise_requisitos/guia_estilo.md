@@ -88,12 +88,36 @@
 <figcaption>Fig. 6 - Exemplo de janela presente no site.</figcaption>
 </figure>
 
+<figure>
+<img align=center width="600" src="../../imagens/guia/prefeito.png">
+<br>
+<figcaption>Fig. 7 - Página que mostra dados do atual prefeito.</figcaption>
+</figure>
+
+<figure>
+<img align=center width="600" src="../../imagens/guia/informacao.png">
+<br>
+<figcaption>Fig. 8 - Página de informações..</figcaption>
+</figure>
+
+<figure>
+<img align=center width="600" src="../../imagens/guia/contatos.png">
+<br>
+<figcaption>Fig. 9 - Página dos contatos das secretarias.</figcaption>
+</figure>
+
+<figure>
+<img align=center width="600" src="../../imagens/guia/noticias.png">
+<br>
+<figcaption>Fig. 10 - Página página de notícias da cidade.</figcaption>
+</figure>
+
 <p align = "justify">Para padronizar o modelo de janelas apresentado no site, foi desenvolvido o seguinte grid:</p>
 
 <figure>
 <img align=center width="600" src="../../imagens/guia/grid2.png">
 <br>
-<figcaption>Fig. 7 - Ideia geral sobre as janelas do site.</figcaption>
+<figcaption>Fig. 11 - Ideia geral sobre as janelas do site.</figcaption>
 </figure>
 
 
@@ -103,7 +127,7 @@
 
 <figure>
 <img align=left width="600" src="../../imagens/guia/tipografia.png">
-<figcaption>Fig. 8 - Tipos de fontes utilizadas no site.</figcaption>
+<figcaption>Fig. 12 - Tipos de fontes utilizadas no site.</figcaption>
 </figure>
 
 ### 3.4 Símbolos não tipográficos
@@ -112,7 +136,7 @@
 
 <figure>
 <img align=left width="700" src="../../imagens/guia/icones.png">
-<figcaption>Fig. 9 - Ícones utilizados no site.</figcaption>
+<figcaption>Fig. 13 - Ícones utilizados no site.</figcaption>
 </figure>
 
 <p align = "justify">Esses símbolos representam, respectivamente, os seguintes itens do menu:</p>
@@ -125,20 +149,22 @@
 <p>- Serviços online;</p>
 <p>- Licitações.</p>
 
+<p align = "justify">Os ícones de telefones úteis, portal do aluno e portal da saúde são intuitivos. Já os símbolos para agendamento de teste para COVID19, portal, relatórios fiscais, serviços online e licitações podem deixar o usuário confuso, pois não explicitam exatamente o que significam. O usuário não deduz automaticamente o que pode significar esses símbolos.</p>
+
 
 ### 3.5 Cores
 <p align = "justify">A logo pode ser encontrada de duas formas: com o nome do site por extenso ou apenas sua logo. Aqui está a palheta de cores de ambas as logos:</p>
 
 <figure>
 <img align=left width="700" src="../../imagens/guia/paleta_1.png">
-<figcaption>Fig. 10 - Paleta de cores da logo.</figcaption>
+<figcaption>Fig. 114 - Paleta de cores da logo.</figcaption>
 </figure>
 
 <p align = "justify">No percorrer do site as seguintes cores podem ser encontradas:</p>
 
 <figure>
 <img align=left width="700" src="../../imagens/guia/paleta_2.png">
-<figcaption>Fig. 11 - Paleta de cores encontrada no site.</figcaption>
+<figcaption>Fig. 15 - Paleta de cores encontrada no site.</figcaption>
 </figure>
 
 
@@ -166,7 +192,7 @@
 <figure>
 <img align=center width="300" src="../../imagens/guia/receber_informacoes.png">
 <br>
-<figcaption>Fig. 12 - Formulário para recebimento de informações por e-mail.</figcaption>
+<figcaption>Fig. 16 - Formulário para recebimento de informações por e-mail.</figcaption>
 </figure>
 
 ### 5.2 Seleção
@@ -203,7 +229,7 @@
 </div>
 
 <div><p align = "justify">
-- Todos os prints apresentados nessa seção, foram retirados do site da <a href= "https://aguaslindasdegoias.go.gov.br/">Prefeitura de Águas Lindas de Goiás</a>.
+- Todos os prints apresentados nessa seção, foram retirados do site da <a href= "https://aguaslindasdegoias.go.gov.br/">Prefeitura de Águas Lindas de Goiás</a> nos dias 13 e 28 de Outubro de 2020.
 </p>
 </div>
 
@@ -213,4 +239,5 @@
 |08/10 |V0      |     Criação do documento        |Bruna Almeida|
 |13/10 |V1      |Adiciona strutura para o texto   |Damarcones Porto|
 |13/10 |V2      |Adiciona Definição               |Bruna Almeida|
-|13/10 |v3      |Adiciona Resultados              |Bruna e Damarcones|
+|13/10 |V3      |Adiciona Resultados              |Bruna e Damarcones|
+|28/10 |V4      |Adiciona prints do site          |Bruna, Damarcones|
