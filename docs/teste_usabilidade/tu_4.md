@@ -13,6 +13,7 @@
     <p align = "justify">O teste-piloto foi feito através de um notebook com sistema Linux Manjaro, processador Intel i7 e 8GB de RAM, e com acesso à uma internet com velocidade de 3Mb, e teve início às 14:11 e foi finalizado às 14:25.</p>
     <p align = "justify">Foram apresentadas à participante as instruções de como executar a tarefa, descrita na <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/CMN_GOMS/#baixar-formulario-de-pessoa-fisica-para-reclamacao">análise de tarefa CMN-GOMS</a>. Também foi solicitado que a participante tentasse chegar ao objetivo da tarefa utilizando outros meios no site. A usuária porém, não conseguiu concluir a tarefa de outra forma.</p>
     <p align = "justify">A tarefa solicitada foi concluída com sucesso e ao final do teste, foi feita uma pequena entrevista com a usuária, para saber sua opinião sobre o teste.</p>
+</div>
 
 ### Entrevista
     
@@ -23,7 +24,7 @@
 |Você achou fácil a execução da tarefa solicitada?|Com o passo a passo falado, foi mais fácil de fazer.|
 |Sem as instruções apresentadas, você acha que conseguiria executar a tarefa?|Não, porque o site é muito confuso. A gente não entende nada.|
 
-</div>
+
 
 
 ## Interpretação e consolidação dos resultados
