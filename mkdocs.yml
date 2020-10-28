@@ -12,20 +12,14 @@ nav:
     - Questionário: perfil_usuario/questionario.md
     - Personas: perfil_usuario/perfil_personas.md
     - Entrevista: perfil_usuario/entrevista.md
-  - Análise de tarefas:
-    - Tarefas Analisadas: analise_tarefas/AnaliseTarefas.md
-    # - HTA: analise_tarefas/HTA.md
-    # - KLM: analise_tarefas/KLM.md
-    # - CTT: analise_tarefas/CTT.md
-    # - CMN-GOMS: analise_tarefas/CMN_GOMS.md
-    # - CPM-GOMS: analise_tarefas/CPM_GOMS.md
-    - Testes-piloto: analise_tarefas/TestePiloto.md
+  - Análise de tarefas: analise_tarefas/AnaliseTarefas.md
   - Análise de requisitos:
     - Características da plataforma: analise_requisitos/caracteristicas_plataforma.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios_diretrizes.md
     - Metas de usabilidade: analise_requisitos/metas_usabilidade.md
     - Guia de estilo: analise_requisitos/guia_estilo.md
   - StoryBoards: storyboard/storyboard_principal.md
+  - Teste de usabilidade: teste_usabilidade/teste_usabilidade_principal.md
   - Apresentações:
     - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
     - Apresentação - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md

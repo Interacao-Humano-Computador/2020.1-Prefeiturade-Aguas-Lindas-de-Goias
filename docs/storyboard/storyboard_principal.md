@@ -10,18 +10,6 @@
 </div>
 <br>
 
-<!-- ## Planejamento da avaliação
-
-<figure>
-<img align=center width="700" src="../../imagens/tabela_teste_usabilidade.png">
-<br>
-<figcaption>Fig. 1 - Descrição das etapas do teste de usabilidade</figcaption>
-</figure>
-
-
-### **Preparação**
-
-### **Coleta de dados** -->
 <div>
     <p align = "justify">
     A seguir encontram-se os <i>storyboards</i>, criados a partir das análises das tarefas:
@@ -34,11 +22,6 @@
 <p><a href="../storyboard_4">Storyboard 4: Baixar formulário de pessoa física para reclamação</a></p>
 <p><a href="../storyboard_5">Storyboard 5: Visualizar boletim de casos de Coronavírus de um dia específico</a></p>
 <br>
-<!-- <div>
-    <p align = "justify">
-    As próximas etapas definidas na tabela serão apresentadas juntamente com cada <i>storyboard</i>.
-    </p>
-</div> -->
 
 
 ## Referências
