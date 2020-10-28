@@ -13,12 +13,12 @@ aulas. Possui baixo nível de conhecimento em informática.
 
 #### Materiais
 Os materiais utilizados na avaliação foram:
-- Computador com acesso à internet
-- Teclado/Mouse no padrão brasileiro
-- Monitor de computador
-- O site da prefeitura aberto em tela cheia
-- Cadeira que permite ajuste para uma boa vizualização da tela
-- Cronômetro para medir o tempo de cada ação
+* Computador com acesso à internet
+* Teclado/Mouse no padrão brasileiro
+* Monitor de computador
+* O site da prefeitura aberto em tela cheia
+* Cadeira que permite ajuste para uma boa vizualização da tela
+* Cronômetro para medir o tempo de cada ação
 
 #### Teste piloto
 O teste piloto foi realizado de forma que os materiais e o site
