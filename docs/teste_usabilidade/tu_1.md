@@ -1,6 +1,6 @@
 # Teste de usabilidade - Acessar informações da economia
 
-## Preparação
+### Preparação
 A tarefa principal que o participante deve executar é a busca por 
 informações do PIB da cidade de Aguas Lindas de Goiás.
 O roteiro da avaliação consiste no participante ser informado sobre
@@ -35,7 +35,7 @@ site fossem validados e assim avançar a avaliação com a participante.
 O resultado foi satisfatório, a ação pôde ser feita sem interrupções
 por parte dos equipamentos e do software.
 
-## Coleta de dados
+### Coleta de dados
 A participante foi orientada a sentar-se e informada de sua tarefa
 a ser realizada, o aviso foi dado e o cronômetro disparado de modo
 que a participante fosse autorizada a iniciar sua ação. O quadro
@@ -71,7 +71,7 @@ Legenda:
 2. A imagem(x) está disposta nos anexos
 
 
-## Interpretação e consolidação dos resultados
+### Interpretação e consolidação dos resultados
 
 #### Perspectiva do participante
 A participante se queixou de dificuldade de distiguir os itens 
@@ -105,7 +105,7 @@ que estava a observar era a correta.
 * As cores do site devem ser revisadas e os elementos destiguidos de forma que o 
   contraste seja maior e os itens se tornem mais evidentes.
 
-## Anexos
+### Anexos
 ![IMG1](../imagens/testeusa/tuimagem1.jpg)
 Imagem(1)
 
@@ -123,12 +123,12 @@ Imagem(3)
 Imagem do Menu
 <br>
 
-## Referências
+### Referências
 
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 * Site Prefeitura de Águas Lindas de Goiás acessado em: 28/10/2020 às 13:12. 
 
-## Versionamento
+### Versionamento
 
 | Data | Versão |           Descrição             |    Autor       |
 |:----:|:------:|:-------------------------------:|:--------------:|
