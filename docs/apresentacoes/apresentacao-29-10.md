@@ -1,7 +1,7 @@
 # Quarta entregra 29/10
 
 Nessa quarta entrega nosso objetivo foi a criação dos storyboards e testes de usabilidade.
-O Vídeo pode ser acessado nesse [Link](https://youtu.be/m9JoCDmCVcw). 
+O Vídeo pode ser acessado nesse [Link](https://youtu.be/FCLWeCK91lA). 
 
 <br></br>
 
