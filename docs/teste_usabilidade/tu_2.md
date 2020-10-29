@@ -4,7 +4,7 @@
 
 <p>Para a validação da <a href="../../analise_tarefas/CTT">tarefa</a> e do <a href="../../storyboard/storyboard_2">storyboard</a>, Buscar Notícias, serão feitas perguntas com objetivo de verificar se os modelos propostos estão condizentes com o usado na aplicação, se atende as expectativas do usuário e possíveis críticas ou sugestões de melhoria sobre o modelo.</p>
 
-<p>O perfil dos usuários que poderiam dessa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
+<p>O perfil dos usuários que poderiam respondere essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
 
 ## Coleta de dados
 
