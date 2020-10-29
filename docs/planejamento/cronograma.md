@@ -57,8 +57,8 @@ De 16/10 até 29/10
 |StoryBoard 3                               |Damarcones Porto    |                | 26/10 | 26/10          |
 |StoryBoard 4                               |Bruna Almeida       |                | 26/10 | 26/10          |
 |StoryBoard 5                               |Amanda Bezerra      |                | 26/10 | 26/10          |
-|Teste-Usabilidade: tarefa 1                |Hugo Aragão         |                |       | 27/10          |
-|Teste-Usabilidade: tarefa 2                |André Eduardo       |                |       | 28/10         
+|Teste-Usabilidade: tarefa 1                |Hugo Aragão         |                | 28/10 | 27/10          |
+|Teste-Usabilidade: tarefa 2                |André Eduardo       |                |       | 28/10          |
 |Teste-Usabilidade: tarefa 3                |Damarcones Porto    |                | 28/10 | 28/10          |
 |Teste-Usabilidade: tarefa 4                |Bruna Almeida       |                | 28/10 | 28/10          |
 |Teste-Usabilidade: tarefa 5                |Amanda Bezerra      |                | 28/10 | 28/10          |
@@ -67,7 +67,7 @@ De 16/10 até 29/10
 |Fazer linkagem das páginas dos storyboards |Damarcones Porto    |Bruna Almeida   | 21/10 | 21/10          |
 |Fazer introdução para os storyboards       |Bruna Almeida       |Damarcones Porto| 21/10 | 21/10          |
 |Gravar apresentação                        |Todos os integrantes|     ------     |       | 28/10          |
-|Editar vídeo da apresentação               |Hugo Aragão         |                |       | 28/10          |
+|Editar vídeo da apresentação               |Hugo Aragão         |                | 28/10 | 28/10          |
 
 <br> </br>
 
