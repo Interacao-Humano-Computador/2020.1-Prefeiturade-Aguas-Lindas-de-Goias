@@ -65,9 +65,10 @@ abaixo dispõe os pontos principais da execução da tarefa:
 |Total                                   |**55.9**  |
 
 Legenda:
-* 1. "I." quer dizer "item"
-* 2. A imagem(x) está disposta nos anexos
 
+1. "I." quer dizer "item"
+
+2. A imagem(x) está disposta nos anexos
 
 
 ## Interpretação e consolidação dos resultados
