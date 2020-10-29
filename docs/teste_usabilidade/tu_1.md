@@ -22,6 +22,7 @@ aulas. Possui baixo nível de conhecimento em informática.
 
 #### Materiais
 Os materiais utilizados na avaliação foram:
+
 * Computador com acesso à internet
 * Teclado/Mouse no padrão brasileiro
 * Monitor de computador
