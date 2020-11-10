@@ -71,6 +71,30 @@ De 16/10 até 29/10
 
 <br> </br>
 
+## 5ª entrega - Planejamento e avaliação dos StoryBoards e protótipos de papel
+De 30/10 até 12/11
+
+|               Tarefa                     |  Participante(s)    |  Revisado por      |Entrega|Entrega prevista|
+|:----------------------------------------:|:-------------------:|:------------------:|:-----:|:--------------:|
+|Avaliação StoryBoard 1                    |Hugo Aragão          |                    |       |     11/11      |
+|Avaliação StoryBoard 2                    |André Eduardo        |                    |       |     11/11      |
+|Avaliação StoryBoard 3                    |Damarcones Porto     |                    |       |     11/11      |
+|Avaliação StoryBoard 4                    |Bruna Almeida        |                    |       |     11/11      |
+|Avaliação StoryBoard 5                    |Amanda Bezerra       |                    |       |     11/11      |
+|Planejamento e avaliação protótipo 1      |Hugo Aragão          |                    |       |     11/11      |
+|Planejamento e avaliação protótipo 2      |André Eduardo        |                    |       |     11/11      |
+|Planejamento e avaliação protótipo 3      |Damarcones Porto     |                    |       |     11/11      |
+|Planejamento e avaliação protótipo 4      |Bruna Almeida        |                    |       |     11/11      |
+|Planejamento e avaliação protótipo 5      |Amanda Bezerra       |                    |       |     11/11      |
+|Refatoração - Metas de usabilidade        |Amanda Bezerra       |                    |       |     11/11      |
+|Refatoração - Princípios e diretrizes     |André Eduardo        |                    |       |     11/11      |
+|Refatoração - Planejamento                |Bruna e Damarcones   |                    |       |     11/11      |
+|Refatoração - Padronização dos documentos |Todos os integrantes |                    |       |     11/11      |
+|Gravar apresentação                       |Todos os integrantes |       ------       |       |     11/11      |
+|Editar vídeo da apresentação              |Hugo Aragão          |Todos os integrantes|       |     11/11      |
+
+<br> </br>
+
 
 ## Versionamento
 
@@ -80,3 +104,4 @@ De 16/10 até 29/10
 |01/10 |V1      |Adiciona cronograma da 2ª entrega|Bruna Almeida|
 |08/10 |V2      |Adiciona cronograma da 3ª entrega|Bruna Almeida|
 |21/10 |V3      |Adiciona cronograma da 4ª entrega|Bruna Almeida|
+|09/11 |V4      |Adiciona cronograma da 5ª entrega|Bruna Almeida|
