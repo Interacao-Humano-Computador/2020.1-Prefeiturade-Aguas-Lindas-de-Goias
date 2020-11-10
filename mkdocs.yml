@@ -12,14 +12,20 @@ nav:
     - Questionário: perfil_usuario/questionario.md
     - Personas: perfil_usuario/perfil_personas.md
     - Entrevista: perfil_usuario/entrevista.md
-  - Análise de tarefas: analise_tarefas/AnaliseTarefas.md
   - Análise de requisitos:
     - Características da plataforma: analise_requisitos/caracteristicas_plataforma.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios_diretrizes.md
     - Metas de usabilidade: analise_requisitos/metas_usabilidade.md
     - Guia de estilo: analise_requisitos/guia_estilo.md
-  - StoryBoards: storyboard/storyboard_principal.md
-  - Teste de usabilidade: teste_usabilidade/teste_usabilidade_principal.md
+  - Análise de tarefas:
+    - Análise das tarefas: analise_tarefas/AnaliseTarefas.md
+    - Planejamento e avaliação das análises das tarefas: teste_usabilidade/teste_usabilidade_principal.md
+  - Storyboards: 
+    - Storyboards: storyboard/storyboard_principal.md
+    - Planejamento e avaliação dos Storyboards: storyboard/av_storyboard_principal.md
+  - Protótipos de baixa fidelidade:
+    - Protótipos de baixa fidelidade: prototipo_papel/prototipo_principal.md
+    - Planejamento e avaliação dos protótipos de baixa fidelidade: prototipo_papel/av_prototipo_principal.md
   - Apresentações:
     - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
     - Apresentação - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md
