@@ -2,31 +2,28 @@
 
 ## Preparação
 
-<p>Para a validação da <a href="../../analise_tarefas/CTT">tarefa</a> e do <a href="../../storyboard/storyboard_2">storyboard</a>, Buscar Notícias, serão feitas perguntas com objetivo de verificar se os modelos propostos estão condizentes com o usado na aplicação, se atende as expectativas do usuário e possíveis críticas ou sugestões de melhoria sobre o modelo.</p>
+Para a validação do <a href="../../storyboard/storyboard_2">storyboard</a>
+Buscar notícias, será realizada uma entrevista com uma pessoa. Essa entrevista consistirá na apresentação da tarefa, que será realizada pelo entrevistador buscando uma notícia dentro do site avaliado. Após a apresentação da tarefa o entrevistador deverá apresentar o storyboard para o entrevistado e em seguida o mesmo deverá responder o questionário.
 
-<p>O perfil dos usuários que poderiam respondere essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
+<p>O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
 
 ## Coleta de dados
 
 <figure>
 <img align=center width="600" src="../../imagens/avaliacao/coleta_dados.gif">
 <br>
-<figcaption>Fig. 1 - Captura de tela da tarefa realizada </a></figcaption>
+<figcaption>Fig. 1 - Captura de tela da tarefa realizada pelo entrevistador  </a></figcaption>
 </figure>
-** Perguntas respondidas pela persona: **<br>
-<br>
-1.Você notou diferenças entre a tarefa realizada e a tarefa representada pelo storyboard?<br>
-** Não, as tarefas parecem condizentes **<br>
-2.Se sim, qual ?<br>
- ** -- **<br>
-3.Você encontrou dificuldades para realização da tarefa ?<br>
-**sim. **<br>
-4.Se sim, qual ?<br>
-** A falta de um botão para realizar a busca, que só é feita apertando a tecla enter. ** <br>
-5.Você tem alguma sugestão ou crítica para a tarefa que foi realizada?<br>
-** sim. **<br>
-6.Se sim, qual ?<br>
-** A inclusão de um botão de busca.**<br>
+Perguntas respondidas pela persona: <br>
+
+| Pergunta                                                                                        | Resposta                                                                          |
+| :---------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| 1. Você conseguiu compreender de maneira clara os passos para realização da tarefa apresentada? | Sim.                                                                              |
+| 2. Se sim, qual ?                                                                               | -                                                                                 |
+| 3. Você encontrou dificuldades para realização da tarefa ?                                      | sim                                                                               |
+| 4. Se sim, qual ?                                                                               | A falta de um botão para realizar a busca, que só é feita apertando a tecla enter |
+| 5. Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                         | sim                                                                               |
+| 6. Se sim, qual ?                                                                               | A inclusão de um botão de busca.                                                  |
 
 ## Interpretação e consolidação dos resultados
 
@@ -39,11 +36,12 @@ O avaliador observou que o usuário realizou a tarefa de maneira idêntica à an
 
 ## Referências
 
-Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento
 
-| Data  | Versão |      Descrição       |     Autor     |
-| :---: | :----: | :------------------: | :-----------: |
-| 28/10 |   V0   | Criação do documento | Bruna Almeida |
-| 28/10 |   V1   |  Adição de conteúdo  | André Eduardo |
+| Data  | Versão |                    Descrição                     |     Autor     |
+| :---: | :----: | :----------------------------------------------: | :-----------: |
+| 28/10 |   V0   |               Criação do documento               | Bruna Almeida |
+| 28/10 |   V1   |                Adição de conteúdo                | André Eduardo |
+| 10/1  |   V2   | Refatoração da tabela de perguntas e Preparaçaão | André Eduardo |
