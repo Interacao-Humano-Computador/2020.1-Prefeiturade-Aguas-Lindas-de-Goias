@@ -19,7 +19,7 @@ nav:
     - Guia de estilo: analise_requisitos/guia_estilo.md
   - Análise de tarefas:
     - Análise das tarefas: analise_tarefas/AnaliseTarefas.md
-    - Planejamento e avaliação das análises das tarefas: teste_usabilidade/teste_usabilidade_principal.md
+    - Planejamento e avaliação das análises das tarefas: teste_usabilidade_tarefas/teste_usabilidade_principal.md
   - Storyboards: 
     - Storyboards: storyboard/storyboard_principal.md
     - Planejamento e avaliação dos Storyboards: storyboard/av_storyboard_principal.md

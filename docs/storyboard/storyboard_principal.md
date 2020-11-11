@@ -16,11 +16,11 @@
     </p>
 </div>
 
-<p><a href="../storyboard_1">Storyboard 1: Acessar informações da economia</a></p>
-<p><a href="../storyboard_2">Storyboard 2: Buscar notícias</a></p>
-<p><a href="../storyboard_3">Storyboard 3: Copiar telefone de contato de uma secretaria específica</a></p>
-<p><a href="../storyboard_4">Storyboard 4: Baixar formulário de pessoa física para reclamação</a></p>
-<p><a href="../storyboard_5">Storyboard 5: Visualizar boletim de casos de Coronavírus de um dia específico</a></p>
+- <p><a href="../storyboard_1">Storyboard 1: Acessar informações da economia</a></p>
+- <p><a href="../storyboard_2">Storyboard 2: Buscar notícias</a></p>
+- <p><a href="../storyboard_3">Storyboard 3: Copiar telefone de contato de uma secretaria específica</a></p>
+- <p><a href="../storyboard_4">Storyboard 4: Baixar formulário de pessoa física para reclamação</a></p>
+- <p><a href="../storyboard_5">Storyboard 5: Visualizar boletim de casos de Coronavírus de um dia específico</a></p>
 <br>
 
 
