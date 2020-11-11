@@ -1,38 +1,42 @@
-# Teste de usabilidade - Buscar notícias
+# Teste de usabilidade - Prototipo Buscar no site
 
 ## Preparação
 
-Para a validação do <a href="../../storyboard/storyboard_2">storyboard</a>
-Buscar notícias, será realizada uma entrevista com uma pessoa. Essa entrevista consistirá na apresentação da tarefa, que será realizada pelo entrevistador buscando uma notícia dentro do site avaliado. Após a apresentação da tarefa o entrevistador deverá apresentar o storyboard para o entrevistado e em seguida o mesmo deverá responder o questionário.
+A realização dessa avaliação foi foi por meio de uma entrevista realizada de maneira remota com usuário que se enquadra nas características descritas pelas “personas”
 
-<p>O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
+O entrevistado possui as seguintes características: mulher, 23 anos, estudante de arquitetura e moradora de águas lindas.
+
+Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áudios e as capturas de tela da entrevista serão utilizados nessa avaliação
 
 ## Coleta de dados
 
 <figure>
 <img align=center width="600" src="../../imagens/avaliacao/coleta_dados.gif">
 <br>
-<figcaption>Fig. 1 - Captura de tela da tarefa realizada pelo entrevistador  </a></figcaption>
+<figcaption>Fig. 1 - Captura de tela da tarefa realizada entrevistado </a></figcaption>
 </figure>
-Perguntas respondidas pela persona: <br>
+<figure>
+<img align=center width="600" src="../../imagens/avaliacao/coleta_dados.gif">
+<br>
+<figcaption>Fig. 2 - Captura de tela do prototipo analisado pelo entrevistado  </a></figcaption>
+</figure>
 
-| Pergunta                                                                                        | Resposta                                                                          |
-| :---------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
-| 1. Você conseguiu compreender de maneira clara os passos para realização da tarefa apresentada? | Sim.                                                                              |
-| 2. Se sim, qual ?                                                                               | -                                                                                 |
-| 3. Você encontrou dificuldades para realização da tarefa ?                                      | sim                                                                               |
-| 4. Se sim, qual ?                                                                               | A falta de um botão para realizar a busca, que só é feita apertando a tecla enter |
-| 5. Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                         | sim                                                                               |
-| 6. Se sim, qual ?                                                                               | A inclusão de um botão de busca.                                                  |
+| Pergunta | Resposta |
+| :------- | :------- |
+
+
+|Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?
+||
+|Você realizou a mesma tarefa no protótipo de papel e no site avaliado. Qual dos dois você achou mais interessante de se realizar ?||
+|Você tem alguma sugestão ou crítica para a tarefa que foi realizada?||
 
 ## Interpretação e consolidação dos resultados
 
-Para assegurar a qualidade dos dados foi proposto que primeiro o usuário realizasse a tarefa de “realizar um busca” no site, e em seguida foram apresentados os modelos desenvolvidos pela equipe para que assim fosse possível sua comparação com os resultados práticos.
+A realização do teste seguiu de acordo com as expectativas do avaliador e como foram propostas no planejamento da avaliação, não ocorrendo adversidades durante a entrevista. Sendo possível assim obter dados relevantes para verificação da qualidade do protótipo desenvolvido
 
 ## Resultados
 
-Após a realização do teste com o usuário, foi possível validar o desenvolvimento da tarefa e do storyboard desenvolvido, além de obter possíveis erros de usabilidade observados pelo ente entrevistado.
-O avaliador observou que o usuário realizou a tarefa de maneira idêntica à análise proposta pelo grupo, tendo dificuldade com relação à falta de um botão de busca, onde o avaliador teve que auxiliar o entrevistado para dar continuidade a realização do teste.
+Após a análise do avaliador sobre o entrevistado e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.
 
 ## Referências
 
@@ -40,8 +44,7 @@ O avaliador observou que o usuário realizou a tarefa de maneira idêntica à an
 
 ## Versionamento
 
-| Data  | Versão |                    Descrição                     |     Autor     |
-| :---: | :----: | :----------------------------------------------: | :-----------: |
-| 28/10 |   V0   |               Criação do documento               | Bruna Almeida |
-| 28/10 |   V1   |                Adição de conteúdo                | André Eduardo |
-| 10/1  |   V2   | Refatoração da tabela de perguntas e Preparaçaão | André Eduardo |
+| Data  | Versão |      Descrição       |     Autor     |
+| :---: | :----: | :------------------: | :-----------: |
+| 11/10 |   V0   | Criação do documento | Bruna Almeida |
+| 11/10 |   V1   |  Adição de conteúdo  | André Eduardo |

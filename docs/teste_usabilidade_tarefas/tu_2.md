@@ -1,41 +1,39 @@
-# Teste de usabilidade - Buscar notícias
+# Teste de usabilidade - Prototipo Buscar no site
 
 ## Preparação
 
-Para avaliação do protótipo de papel de buscar uma informação, será realizada uma entrevista com um possível usuário do sistema , as características do usuário escolhido deve ser compatível com as encontradas em “Personas “.
+A realização dessa avaliação foi foi por meio de uma entrevista realizada de maneira remota com usuário que se enquadra nas características descritas pelas <a href="../perfil_usuario/perfil_personas">Personas</a></p>
 
-A avaliação desse protótipo ocorre de maneira intensiva com a participação do entrevistador. que deverá explicar a tarefa e os objetivos do teste, e por fim iniciar o teste usando os protótipos. Que por serem imagens estáticas deverão ser alterada de acordo com o desenvolvimento da tarefa
+O entrevistado possui as seguintes características: mulher, 23 anos, estudante de arquitetura e moradora de águas lindas.
 
-Após realizado o teste de papel o entrevistador deverá solicitar ao usuário que faça a mesma atividade no site avaliado e em seguida apresentar o questionário .
-Antes do início do teste com o usuário o próprio entrevistador deverá simular a realização da tarefa para verificar possíveis erros que possam atrapalhar o teste.
-
-<p>O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
+Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áudios e as capturas de tela da entrevista serão utilizados nessa avaliação
 
 ## Coleta de dados
 
-O Avaliador deve ficar atento às observações e dúvidas que o usuário possa apresentar durante a realização do teste.
+<figure>
+<img align=center width="600" src="../../imagens/avaliacao/coleta_dados.gif">
+<br>
+<figcaption>Fig. 1 - Captura de tela da tarefa realizada entrevistado </a></figcaption>
+</figure>
+<figure>
+<img align=center width="600" src="../../imagens/papel/pPapel.gif">
+<br>
+<figcaption>Fig. 2 - Captura de tela do prototipo analisado pelo entrevistado  </a></figcaption>
+</figure>
 
-Sempre que possível o teste deverá ser gravado.
-Após a realização do teste algumas perguntas deverão ser respondidas pelo entrevistado.
-
-| Pergunta | Resposta |
-| :------- | :------- |
-
-
-|Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?
-||
-|Você realizou a mesma tarefa no protótipo de papel e no site avaliado, qual dos dois você achou mais interessante de se realizar ?||
-|Você tem alguma sugestão ou crítica para a tarefa que foi realizada?||
+| Pergunta                                                                                                                           | Resposta                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?                                                          | <audio controls><source src="../../imagens/papel/audio_01.mp3" type="audio/mpeg"></audio> |
+| Você realizou a mesma tarefa no protótipo de papel e no site avaliado. Qual dos dois você achou mais interessante de se realizar ? | <audio controls><source src="../../imagens/papel/audio_02.mp3" type="audio/mpeg"></audio> |
+| Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                                                               | <audio controls><source src="../../imagens/papel/audio_03.mp3" type="audio/mpeg"></audio> |
 
 ## Interpretação e consolidação dos resultados
 
-Após a realização da entrevista os dados coletados deverão ser analisados para verificar sua qualidade.
-
-Sempre que o avaliador encontra algum erro no desenvolvimento do protótipo ou da entrevista ele deverá anotar esse erro e buscar resolvê-lo antes de realizar uma nova avaliação.
+A realização do teste seguiu de acordo com as expectativas do avaliador e como foram propostas no planejamento da avaliação, não ocorrendo adversidades durante a entrevista. Sendo possível assim obter dados relevantes para verificação da qualidade do protótipo desenvolvido
 
 ## Resultados
 
-Após finalizar as entrevistas o avaliador deverá descrever os resultados obtidos, listando os erros encontrados no modelo e as soluções propostas. Assim como as observações e sugestões dos usuários que possam agregar valor no desenvolvimento do protótipo.
+Após a análise do avaliador sobre o entrevistado e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.
 
 ## Referências
 
@@ -45,5 +43,5 @@ Após finalizar as entrevistas o avaliador deverá descrever os resultados obtid
 
 | Data  | Versão |      Descrição       |     Autor     |
 | :---: | :----: | :------------------: | :-----------: |
-| 10/11 |   V0   | Criação do documento | Bruna Almeida |
-| 10/11 |   V1   |  Adição de conteúdo  | André Eduardo |
+| 11/10 |   V0   | Criação do documento | Bruna Almeida |
+| 11/10 |   V1   |  Adição de conteúdo  | André Eduardo |
