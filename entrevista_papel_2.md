@@ -1,6 +1,6 @@
-# Teste de usabilidade - Buscar no site
+# Teste de usabilidade - Prototipo Buscar no site
 
-## Planejamento da avaliação
+## Planejamento da avaliaçao
 
 <a href="../plane_prototipo2">Buscar no site</a>
 
@@ -37,7 +37,7 @@ A realização do teste seguiu de acordo com as expectativas do avaliador e como
 
 ## Resultados
 
-Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.
+Após a análise do avaliador sobre o entrevistado e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.
 
 ## Referências
 
