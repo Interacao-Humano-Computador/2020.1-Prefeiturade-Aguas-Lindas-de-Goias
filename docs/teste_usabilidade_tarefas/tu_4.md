@@ -1,19 +1,20 @@
 # Teste de usabilidade - Baixar formulário de pessoa física para reclamação
 
-## Preparação
-<div>
-    <p align = "justify">A tarefa escolhida para o teste é a de <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/CMN_GOMS/#baixar-formulario-de-pessoa-fisica-para-reclamacao">baixar um formulário para pessoa física</a>, para reclamação junto à <a href= "https://aguaslindasdegoias.go.gov.br/">Prefeitura de Águas Lindas de Goiás</a>. A análise desta tarefa já foi desenvolvida anteriormente.</p>
-    <p align = "justify">A pessoa escolhida para participar do teste e executar a tarefa foi Josilda Almeida Santos, 50 anos, moradora de Águas Lindas de Goiás. Josilda tem conhecimento básico em relação à utilização de sites da web.</p>
-</div>
+## Participante
+- Bruna Almeida Santos
 
+## Preparação
+
+<p align = "justify">A tarefa escolhida para o teste é a de <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/CMN_GOMS/#baixar-formulario-de-pessoa-fisica-para-reclamacao">baixar um formulário para pessoa física</a>, para reclamação junto à <a href= "https://aguaslindasdegoias.go.gov.br/">Prefeitura de Águas Lindas de Goiás</a>. A análise desta tarefa já foi desenvolvida anteriormente.</p>
+<p align = "justify">O planejamento e a avaliação desse artefato faz parte do nível 1 da fase de design, avaliação e desenvolvimento, da <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/planejamento/processo/#engenharia-de-usabilidade-de-mayhew">Engenharia de usabilidade de Mayhew</a>.</p>
+<p align = "justify">A pessoa escolhida para participar do teste e executar a tarefa foi Josilda Almeida Santos, 50 anos, moradora de Águas Lindas de Goiás. Josilda tem conhecimento básico em relação à utilização de sites da web.</p>
 
 
 ## Coleta de dados
-<div>
-    <p align = "justify">O teste-piloto foi feito através de um notebook com sistema Linux Manjaro, processador Intel i7 e 8GB de RAM, e com acesso à uma internet com velocidade de 3Mb, e teve início às 14:11 e foi finalizado às 14:25.</p>
-    <p align = "justify">Foram apresentadas à participante as instruções de como executar a tarefa, descrita na <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/CMN_GOMS/#baixar-formulario-de-pessoa-fisica-para-reclamacao">análise de tarefa CMN-GOMS</a>. Também foi solicitado que a participante tentasse chegar ao objetivo da tarefa utilizando outros meios no site. A usuária porém, não conseguiu concluir a tarefa de outra forma.</p>
-    <p align = "justify">A tarefa solicitada foi concluída com sucesso e ao final do teste, foi feita uma pequena entrevista com a usuária, para saber sua opinião sobre o teste.</p>
-</div>
+
+<p align = "justify">O teste foi feito através de um notebook com sistema Linux Manjaro, processador Intel i7 e 8GB de RAM, e com acesso à uma internet com velocidade de 3Mb, tendo duração entre às 14:11 e às 14:25.</p>
+<p align = "justify">Foram apresentadas à participante as instruções de como executar a tarefa, descrita na <a href= "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/CMN_GOMS/#baixar-formulario-de-pessoa-fisica-para-reclamacao">análise de tarefa CMN-GOMS</a>. Também foi solicitado que a participante tentasse chegar ao objetivo da tarefa utilizando outros meios no site. A usuária porém, não conseguiu concluir a tarefa de outra forma.</p>
+<p align = "justify">A tarefa solicitada foi concluída com sucesso e ao final do teste, foi feita uma pequena entrevista com a usuária, para saber sua opinião sobre o teste.</p>
 
 ### Entrevista
     

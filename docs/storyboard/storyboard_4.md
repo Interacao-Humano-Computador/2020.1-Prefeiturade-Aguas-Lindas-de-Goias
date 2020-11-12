@@ -1,7 +1,7 @@
 # StoryBoard: Baixar formulário de pessoa física para reclamação
 
-## Participante(s)
-- Bruna Almeida
+## Participante
+- Bruna Almeida Santos
 
 ## Preparo
 
