@@ -23,14 +23,15 @@ nav:
   - Storyboards: 
     - Storyboards: storyboard/storyboard_principal.md
     - Planejamento e avaliação dos Storyboards: storyboard/av_storyboard_principal.md
-  - Protótipos de baixa fidelidade:
-    - Protótipos de baixa fidelidade: prototipo_papel/prototipo_principal.md
-    - Planejamento e avaliação dos protótipos de baixa fidelidade: prototipo_papel/av_prototipo_principal.md
+  - Protótipos de papel:
+    - Protótipos de papel: prototipo_papel/prototipo_principal.md
+    - Planejamento e avaliação dos protótipos de papel: prototipo_papel/av_prototipo_principal.md
   - Apresentações:
-    - Apresentação - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
-    - Apresentação - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md
-    - Apresentação - Terceira entrega (15/10): apresentacoes/apresentacao-15-10.md
-    - Apresentação - Quarta entrega (29/10): apresentacoes/apresentacao-29-10.md
+    - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
+    - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md
+    - Terceira entrega (15/10): apresentacoes/apresentacao-15-10.md
+    - Quarta entrega (29/10): apresentacoes/apresentacao-29-10.md
+    - Quinta entrega (12/11): apresentacoes/apresentacao-12-11.md
 
 
 
