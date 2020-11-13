@@ -33,9 +33,9 @@ Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áud
 
 | Pergunta                                                                                                                           | Resposta                                                                                  |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?                                                          | <audio controls><source src="../../imagens/papel/audio_01.mp3" type="audio/mpeg"></audio> |
-| Você realizou a mesma tarefa no protótipo de papel e no site avaliado. Qual dos dois você achou mais interessante de se realizar ? | <audio controls><source src="../../imagens/papel/audio_02.mp3" type="audio/mpeg"></audio> |
-| Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                                                               | <audio controls><source src="../../imagens/papel/audio_03.mp3" type="audio/mpeg"></audio> |
+| Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?                                                          | <audio controls><source src="../../imagens/papel/perg1.mp3" type="audio/mpeg"></audio> |
+| Você realizou a mesma tarefa no protótipo de papel e no site avaliado. Qual dos dois você achou mais interessante de se realizar ? | <audio controls><source src="../../imagens/papel/perg2.mp3" type="audio/mpeg"></audio> |
+| Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                                                               | <audio controls><source src="../../imagens/papel/perg3.mp3" type="audio/mpeg"></audio> |
 
 ## Interpretação e consolidação dos resultados
 
@@ -43,8 +43,7 @@ A realização do teste seguiu de acordo com as expectativas do avaliador e como
 
 ## Resultados
 
-Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de mudar o nome da opção 'A Cidade'
-para 'Informações'.
+Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de mudar o nome da opção 'A Cidade' para 'Dados', a sujestão do avaliador é que seria melhor 'Informações'.
 
 ## Referências
 
