@@ -78,19 +78,21 @@ Usaremos as personas para o papel de entrevistados. As respostas serão dadas co
 |   6   |Ter uma pesquisa mais objetiva e ter uma aba destinada apenas à informações sobre concursos públicos.|
 
 ### **3.  Considerações finais**
-<div><p align = "justify">
+
+<p align = "justify">
 A partir dos relatos dos entrevistados, tem-se a ideia de que o site foi construído com pouco planejamento, já que todos os entrevistados criticaram funcionalidades precárias ou inexistentes.
 </p>
-<div><p align = "justify">
+<p align = "justify">
 Porém, com essas entrevistas, foi possível refinar um pouco mais o perfil de usuário, deduzindo assim, que o perfil dos usuários que acessam o site da Prefeitura de Águas Lindas são, em sua maioria, críticos, com grau médio de conhecimento sobre sites, e que esperam melhorias no sistema em questão.
 </p>
-</div>
+
 
 #### Referências
-<div><p align = "justify">
+
+<p align = "justify">
 - Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 </p>
-</div>
+
 
 ## Versionamento
 
