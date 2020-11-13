@@ -16,17 +16,17 @@ Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áud
 
 
 <figure>
-<img align=center width="300" src="../../imagens/papel/tela1.jpg">
+<img align=center width="600" src="../../imagens/papel/tela1.jpg">
 <br>
 <figcaption>Fig. 1 - Tela inicial  </a></figcaption>
 </figure>
 <figure>
-<img align=center width="300" src="../../imagens/papel/tela2.jpg">
+<img align=center width="600" src="../../imagens/papel/tela2.jpg">
 <br>
 <figcaption>Fig. 2 - Seleção de opção  </a></figcaption>
 </figure>
 <figure>
-<img align=center width="300" src="../../imagens/papel/tela3.jpg">
+<img align=center width="600" src="../../imagens/papel/tela3.jpg">
 <br>
 <figcaption>Fig. 3 - Página de Economia  </a></figcaption>
 </figure>
