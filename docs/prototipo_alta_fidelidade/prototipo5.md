@@ -38,4 +38,4 @@ O GIF a seguir mostra as telas em conjunto:
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
 |18/11 |V0      |     Criação do documento        |Amanda Bezerra|
-|18/11 |V1      |  Adição do conteúdo das seções Protótipo de Alta-Fidelidade,Adição do conteúdo das seções Protótipo de Alta-Fidelidade e Resultado e Referências Resultado e Referências |Amanda Bezerra|
+|18/11 |V1      |  Adição do conteúdo das seções Protótipo de Alta-Fidelidade, Resultado e Referências |Amanda Bezerra|
