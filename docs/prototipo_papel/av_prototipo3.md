@@ -8,6 +8,8 @@
 
 ##  Perguntas a serem respondidas
 
+<p align="justify">Algumas perguntas que podem ser respondidas durante o processo de avaliação são:</p>
+
 - A função descrita no protótipo ficou clara?
 - A função pode ser melhorada no protótipo?
 
@@ -17,7 +19,7 @@
 
 ##  Questões práticas
 
-<p align="justify">O entrevistado será escolhido de acordo com sua experiência em relação a utilização de sites e sistemas web.</p>
+<p align="justify">O entrevistado escolhido foi persona Diana de acordo com sua experiência em relação a utilização de sites e sistemas web.</p>
 
 ##  Questões éticas
 
@@ -29,7 +31,9 @@
     </embed>
 </object>
 
-# Avaliação 
+<p align="justify">Com todo planejamento já concluído, daremos seguimento ao processo de avaliação.</p>
+
+## Avaliação 
 
 <p align="justify">A participante Diana foi submetida a um teste de usabilidade para realizar a tarefa de buscar um contato de uma secretaria especifíca.</p>
 <p align="justify">Durante esse teste foi constatado que a participante interagiu bem com o protótipo de papel, mas no momento que chegou a tarefa pretendida, se espantou pela paleta de cores utilizada.</p>
@@ -48,7 +52,7 @@
 ## Considerações finais
 
 <p align="justify"> Ao final da avaliação, Diana disse que foi uma experiência nova para ela, gostou de poder interagir com os elementos que tinha a disposição e que só não foi melhor por causa das cores.</p>
-
+<p align="justify"> Com isso é possível concluir que o site precisa de melhorias significativas em relação a sua paleta de cores.</p>
 
 ## Versionamento
 
