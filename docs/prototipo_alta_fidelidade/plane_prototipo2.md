@@ -2,12 +2,14 @@
 
 ## Preparação
 
-Para avaliação do protótipo de papel de buscar uma informação, será realizada uma entrevista com um possível usuário do sistema , as características do usuário escolhido deve ser compatível com as encontradas em <a href="../perfil_usuario/perfil_personas">Personas</a>.
+Para avaliação do protótipo de alta fidelidade de realizar busca, será realizada uma entrevista com um possível usuário do sistema , as características do usuário escolhido deve ser compatível com as encontradas em <a href="../perfil_usuario/perfil_personas">Personas</a>.
 
-A avaliação desse protótipo ocorre de maneira intensiva com a participação do entrevistador. que deverá explicar a tarefa e os objetivos do teste, e por fim iniciar o teste usando os protótipos. Que por serem imagens estáticas deverão ser alterada de acordo com o desenvolvimento da tarefa
+A avaliação desse protótipo ocorre de maneira intensiva com a participação do entrevistador, que deverá explicar a tarefa e os objetivos do teste, e por fim iniciar o teste usando os protótipos.
+Antes do início do teste o entrevistador deverá realizar um teste piloto, onde os equipamentos de captura e as telas necessárias para realização do teste devem estar em perfeito funcionamento.
 
-Após realizado o teste de papel o entrevistador deverá solicitar ao usuário que faça a mesma atividade no site avaliado e em seguida apresentar o questionário .
-Antes do início do teste com o usuário o próprio entrevistador deverá simular a realização da tarefa para verificar possíveis erros que possam atrapalhar o teste.
+O entrevistador deve apresentar então os termos de consentimentos além de uma breve explicação dos procedimentos a serem realizados
+
+Após realizado o teste no protótipo de alta o entrevistador deverá solicitar ao usuário que faça a mesma atividade no site avaliado e em seguida apresentar o questionário .
 
 ## Coleta de dados
 
