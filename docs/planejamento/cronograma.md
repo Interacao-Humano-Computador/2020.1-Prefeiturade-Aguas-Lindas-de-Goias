@@ -103,11 +103,16 @@ De 30/10 até 12/11
 ## 6ª entrega - Planejamento e avaliação do protótipo de Alta-fidelidade
 De 13/10 até 19/11
 
-|               Tarefa                      |  Participante(s)    |Entrega|Entrega prevista|
-|:-----------------------------------------:|:-------------------:|:-----:|:--------------:|
-|Desenvolver o protótipo de Alta-fidelidade |Todos os integrantes |18/11  |18/11           |
-|Avaliação - Protótipo de baixa fidelidade 3|Damarcones Porto     |18/11  |18/11           |
-|Avaliação - Protótipo de baixa fidelidade 4|Bruna Almeida        |18/11  |18/11           |
+|               Tarefa                                 |  Participante(s)   |Entrega|Entrega prevista|
+|:----------------------------------------------------:|:------------------:|:-----:|:--------------:|
+|Desenvolver o protótipo de Alta-fidelidade            |Todos os integrantes|18/11  |18/11           |
+|Avaliação - Protótipo de baixa fidelidade 3           |Damarcones Porto    |18/11  |18/11           |
+|Avaliação - Protótipo de baixa fidelidade 4           |Bruna Almeida       |18/11  |18/11           |
+|Planejamento e avaliação - Protótipo alta-fidelidade 1|André Eduardo       |18/11  |18/11           |
+|Planejamento e avaliação - Protótipo alta-fidelidade 2|Hugo Aragão         |18/11  |18/11           |
+|Planejamento e avaliação - Protótipo alta-fidelidade 3|Damarcones Porto    |18/11  |18/11           |
+|Planejamento e avaliação - Protótipo alta-fidelidade 4|Bruna Almeida       |18/11  |18/11           |
+|Planejamento e avaliação - Protótipo alta-fidelidade 5|Amanda Bezerra      |18/11  |18/11           |
 
 <br> </br>
 
