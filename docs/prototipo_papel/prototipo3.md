@@ -5,7 +5,21 @@
 
 ## Resultado
 
-<p align="justify"> A seguir será mostrado o protótipo de papel sendo utilizado.</p>
+<p align="justify"> A seguir será mostrado imagens referente ao protótipo de papel.</p>
+
+<figure>
+<img align=center width="950" src="../../imagens/contato_papel1.jpg">
+<figcaption>Figura 1. Tela inicial do protótipo de papel.</figcaption>
+</figure>
+
+<figure>
+<img align=center width="950" src="../../imagens/contato_papel1.jpg">
+<figcaption>Figura 2. Tela de contatos do protótipo de papel.</figcaption>
+</figure>
+
+## Teste piloto
+
+<p align="justify"> A seguir será demonstrado o teste piloto, feito pelo integrante Damarcones Porto.</p>
 
 <video style="width:100%" controls src="../../imagens/prot_papel_3.mp4" type="video/mp4">
 </video>
