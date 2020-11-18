@@ -100,6 +100,16 @@ De 30/10 até 12/11
 
 <br> </br>
 
+## 6ª entrega - Planejamento e avaliação do protótipo de Alta-fidelidade
+De 13/10 até 19/11
+
+|               Tarefa                      |  Participante(s)    |Entrega|Entrega prevista|
+|:-----------------------------------------:|:-------------------:|:-----:|:--------------:|
+|Desenvolver o protótipo de Alta-fidelidade |Todos os integrantes |18/11  |18/11           |
+|Avaliação - Protótipo de baixa fidelidade 3|Damarcones Porto     |18/11  |18/11           |
+|Avaliação - Protótipo de baixa fidelidade 4|Bruna Almeida        |18/11  |18/11           |
+
+<br> </br>
 
 ## Versionamento
 
@@ -110,3 +120,4 @@ De 30/10 até 12/11
 |08/10 |V2      |Adiciona cronograma da 3ª entrega|Bruna Almeida|
 |21/10 |V3      |Adiciona cronograma da 4ª entrega|Bruna Almeida|
 |09/11 |V4      |Adiciona cronograma da 5ª entrega|Bruna Almeida|
+|18/11 |V5      |Adiciona cronograma da 6ª entrega|Bruna Almeida|
