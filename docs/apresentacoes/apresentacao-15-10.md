@@ -6,7 +6,7 @@
 
 ## Vídeo da apresentação
 
-<iframe width="700" height="400" src="http://www.youtube.com/embed/EjyV5dt015A" frameborder="0"></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/EjyV5dt015A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slides da apresentação
 

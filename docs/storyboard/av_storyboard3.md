@@ -42,8 +42,7 @@
 
 # Avaliação
 
-<p align="justify">Logo abaixo está a entrevista realizada com Lucas Lopes.</p>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/LBqVYm5UqPk" frameborder="0"></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LBqVYm5UqPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p align="justify"></p>
 
 ## Considerações finais
