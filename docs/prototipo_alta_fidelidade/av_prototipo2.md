@@ -12,7 +12,7 @@ O entrevistado possui as seguintes características: mulher, 24 anos, estudante 
 
 Não foi possível a gravação em vídeo da entrevista. Assim será analisado apenas as capturas de tela e os questionários
 
-Termo de consentimento utilizada :
+<a href="../../imagens/TERMO_DE_CONSENTIMENTO_prot_alta.pdf">Termo de consentimento utilizado na avaliação </a></p>
 
 ## Coleta de dados
 
@@ -49,5 +49,5 @@ Após a análise do avaliador sobre a entrevista e a revisão do questionário p
 
 | Data  | Versão |      Descrição       |     Autor     |
 | :---: | :----: | :------------------: | :-----------: |
-| 11/10 |   V0   | Criação do documento | Bruna Almeida |
-| 11/10 |   V1   |  Adição de conteúdo  | André Eduardo |
+| 16/10 |   V0   | Criação do documento | Bruna Almeida |
+| 18/10 |   V1   |  Adição de conteúdo  | André Eduardo |
