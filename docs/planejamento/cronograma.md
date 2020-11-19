@@ -108,6 +108,9 @@ De 13/10 até 19/11
 |Desenvolver o protótipo de Alta-fidelidade |Todos os integrantes |18/11  |18/11           |
 |Avaliação - Protótipo de baixa fidelidade 3|Damarcones Porto     |18/11  |18/11           |
 |Avaliação - Protótipo de baixa fidelidade 4|Bruna Almeida        |18/11  |18/11           |
+|Avaliação - Protótipo de baixa fidelidade 1|Hugo Aragão          |18/11  |18/11           |
+|Avaliação - Gravação e edição apresentação |Hugo Aragão          |18/11  |18/11           |
+
 
 <br> </br>
 
