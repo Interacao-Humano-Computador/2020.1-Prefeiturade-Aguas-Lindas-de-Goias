@@ -11,15 +11,16 @@ De 13/10 até 19/11
 
 ## Slides da apresentação
 
-<!-- <object data="../../imagens/apresentacao_5.pdf" type="application/pdf" width="700px" height="400px">
-<embed src="../../imagens/apresentacao_5.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../imagens/apresentacao_5.pdf">Download PDF</a>.</p>
+<object data="../../imagens/apresentacao_6.pdf" type="application/pdf" width="700px" height="400px">
+<embed src="../../imagens/apresentacao_6.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../imagens/apresentacao_6.pdf">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
 <br>
 
 ## Versionamento
 
-| Data |Versão| Descrição | Autor |
-|:----:|:----:|:---------:|:-----:|
-|18/11 | V0   |Criação do documento|Bruna Almeida|
+| Data |Versão|        Descrição       |    Autor    |
+|:----:|:----:|:----------------------:|:-----------:|
+|18/11 | V0   |Criação do documento    |Bruna Almeida|
+|18/11 | V1   |Adiciona vídeo e slides |Bruna Almeida|
