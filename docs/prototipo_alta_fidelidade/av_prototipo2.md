@@ -8,9 +8,11 @@
 
 A realização dessa avaliação foi foi por meio de uma entrevista realizada de maneira remota com usuário que se enquadra nas características descritas pelas <a href="../perfil_usuario/perfil_personas">Personas</a></p>
 
-O entrevistado possui as seguintes características: mulher, 23 anos, estudante de arquitetura e moradora de águas lindas.
+O entrevistado possui as seguintes características: mulher, 24 anos, estudante direito e moradora de águas lindas.
 
-Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áudios e as capturas de tela da entrevista serão utilizados nessa avaliação
+Não foi possível a gravação em vídeo da entrevista. Assim será analisado apenas as capturas de tela e os questionários
+
+Termo de consentimento utilizada :
 
 ## Coleta de dados
 
@@ -20,24 +22,24 @@ Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áud
 <figcaption>Fig. 1 - Captura de tela da tarefa realizada entrevistado </a></figcaption>
 </figure>
 <figure>
-<img align=center width="600" src="../../imagens/papel/pPapel.gif">
+<img align=center width="600" src="../../imagens/prototipo_alta_busca.gif">
 <br>
 <figcaption>Fig. 2 - Captura de tela do prototipo analisado pelo entrevistado  </a></figcaption>
 </figure>
 
-| Pergunta                                                                                                                           | Resposta                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?                                                          | <audio controls><source src="../../imagens/papel/audio_01.mp3" type="audio/mpeg"></audio> |
-| Você realizou a mesma tarefa no protótipo de papel e no site avaliado. Qual dos dois você achou mais interessante de se realizar ? | <audio controls><source src="../../imagens/papel/audio_02.mp3" type="audio/mpeg"></audio> |
-| Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                                                               | <audio controls><source src="../../imagens/papel/audio_03.mp3" type="audio/mpeg"></audio> |
+| Pergunta                                                                                                                           | Resposta                                                                                                                     |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| Você encontrou alguma dificuldade na realização do teste ? se sim, qual ?                                                          | Não, a tarefa realizada foi bem simples, e acho que tudo ocorreu conforme o esperado                                         |
+| Você realizou a mesma tarefa no protótipo de papel e no site avaliado. Qual dos dois você achou mais interessante de se realizar ? | O protótipo, pois a página do protótipo e menos poluída de informações , e parece mais organizada além da sugestão de buscas |
+| Você tem alguma sugestão ou crítica para a tarefa que foi realizada?                                                               | Não, a tarefa de busca cumpre seu objetivo                                                                                   |
 
 ## Interpretação e consolidação dos resultados
 
-A realização do teste seguiu de acordo com as expectativas do avaliador e como foram propostas no planejamento da avaliação, não ocorrendo adversidades durante a entrevista. Sendo possível assim obter dados relevantes para verificação da qualidade do protótipo desenvolvido
+A realização do teste seguiu de acordo com as expectativas do avaliador e como foram propostas no planejamento da avaliação,não ocorrendo adversidades durante a entrevista que atrapalhasse os resultados entretanto foram observados problemas de usabilidade devido as limitações do protótipo. Pois não era possível clicar em algumas regiões da tela, mesmo assim possível assim obter dados relevantes para verificação da qualidade do protótipo desenvolvido.
 
 ## Resultados
 
-Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.
+Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de alta fidelidade em relação ao site avaliado, devido ao layout e funcionalidades implementadas.
 
 ## Referências
 
