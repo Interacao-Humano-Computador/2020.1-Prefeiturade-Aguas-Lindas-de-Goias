@@ -28,7 +28,7 @@
 
 ## Versionamento
 
-| Data | Versão |           Descrição             |    Autor    |
-|:----:|:------:|:-------------------------------:|:-----------:|
-|18/11 |V0      |     Criação do documento        |Damarcones Porto|
-|18/11 |V1      |  Adiciona metodologia e links   |Bruna Almeida|
+| Data  | Versão |          Descrição           |      Autor       |
+| :---: | :----: | :--------------------------: | :--------------: |
+| 18/11 |   V0   |     Criação do documento     | Damarcones Porto |
+| 18/11 |   V1   | Adiciona metodologia e links |  Bruna Almeida   |
