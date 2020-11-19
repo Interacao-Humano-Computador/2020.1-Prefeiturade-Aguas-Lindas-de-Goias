@@ -76,5 +76,5 @@ poderá ser adaptado de forma mais semelhante ao padrão adotado em outros siste
 
 | Data | Versão |           Descrição               |    Autor    |
 |:----:|:------:|:---------------------------------:|:-----------:|
-|18/11 |V0      |     Criação do documento          |Damarcones Porto|
-|18/11 |V1      | Adiciona planejamento e avaliação |Hugo         |
+|18/11 |V0      |     Criação do documento          |Hugo Aragão  |
+|18/11 |V1      | Adiciona planejamento e avaliação |Hugo Aragão  |
