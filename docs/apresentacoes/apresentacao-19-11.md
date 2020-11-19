@@ -1,12 +1,9 @@
 # 6ª entrega - Planejamento e avaliação do protótipo de Alta-fidelidade
 De 13/10 até 19/11
 
-<p align="justify"></p>
-<p align="justify"></p>
-
 ## Vídeo da apresentação
 
-<!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="853" height="480" src="https://www.youtube.com/embed/s-9c8JsiIXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Slides da apresentação
