@@ -15,11 +15,11 @@
 
 ## Verificações
 ### Análise de Requisitos
-<p><a href="">Verificação 01: Questionário</a></p>
-<p><a href="">Verificação 02: Personas</a></p>
+<p><a href="../veri_questionario">Verificação 01: Questionário</a></p>
+<p><a href="../veri_personas">Verificação 02: Personas</a></p>
 <p><a href="">Verificação 03: Entrevista</a></p>
 <p><a href="">Verificação 04: Características da plataforma</a></p>
-<p><a href="">Verificação 05: Princípios e diretrizes do projeto</a></p>
+<p><a href="../veri_principios_diretrizes">Verificação 05: Princípios e diretrizes do projeto</a></p>
 <p><a href="">Verificação 06: Metas de usabilidade</a></p>
 <p><a href="">Verificação 07: Guia de estilo</a></p>
 <p><a href="">Verificação 08: Análise de tarefas</a></p>
