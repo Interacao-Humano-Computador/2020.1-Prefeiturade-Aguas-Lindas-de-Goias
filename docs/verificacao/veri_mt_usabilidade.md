@@ -6,7 +6,7 @@
 
 - Técnica utilizada: Técnica de Leitura Check-List.
 <!-- É a verificação padrão, todo mundo usa essa -->
-- Autores do documento: André Eduardo.
+- Autores do documento: Amanda Bezerra.
 <!-- Quem fez o documento que está sendo verificado -->
 - Inspetor: André Eduardo.
   <!-- Quem está fazendo a verificação -->

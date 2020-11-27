@@ -30,8 +30,8 @@
 
 ### Design, avaliação, desenvolvimento
 
-<p><a href="">Verificação 10: Storyboards</a></p>
-<p><a href="">Verificação 11: Planejamento e avaliação dos Storyboards</a></p>
+<p><a href="../veri_storyboard">Verificação 10: Storyboards</a></p>
+<p><a href="../veri_av_storyboard">Verificação 11: Planejamento e avaliação dos Storyboards</a></p>
 <p><a href="../veri_prototipos_papel">Verificação 12: Protótipos de papel</a></p>
 <p><a href="../veri_av_papel">Verificação 13: Planejamento e avaliação dos Protótipos de papel</a></p>
 <p><a href="../veri_prototipos_alta">Verificação 14: Protótipos de alta-fidelidade</a></p>
