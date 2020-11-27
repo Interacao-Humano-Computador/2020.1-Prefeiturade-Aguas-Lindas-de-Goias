@@ -1,4 +1,4 @@
-# Verificação
+# Verificação dos Artefatos
 
 ## Definição
 <p align = "justify">A Verificação é uma atividade que envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais.</p>
@@ -30,9 +30,9 @@
 <p><a href="">Verificação 10: Storyboards</a></p>
 <p><a href="">Verificação 11: Planejamento e avaliação dos Storyboards</a></p>
 <p><a href="../veri_prototipos_papel">Verificação 12: Protótipos de papel</a></p>
-<p><a href="">Verificação 13: Planejamento e avaliação dos Protótipos de papel</a></p>
-<p><a href="">Verificação 14: Protótipos de alta-fidelidade</a></p>
-<p><a href="">Verificação 15: Planejamento e avaliação dos Protótipos de alta-fidelidade</a></p>
+<p><a href="../veri_av_papel">Verificação 13: Planejamento e avaliação dos Protótipos de papel</a></p>
+<p><a href="../veri_prototipos_alta">Verificação 14: Protótipos de alta-fidelidade</a></p>
+<p><a href="../veri_av_alta">Verificação 15: Planejamento e avaliação dos Protótipos de alta-fidelidade</a></p>
 
 ## Referências
 - <a href="https://www.devmedia.com.br/a-importancia-da-validacao-e-da-verificacao/24559">devmedia.com</a>

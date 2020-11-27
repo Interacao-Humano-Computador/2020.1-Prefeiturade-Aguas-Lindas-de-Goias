@@ -80,6 +80,7 @@
 |18/09 |   V1   |Adiciona as ferramentas                      |Bruna e Damarcones|
 |20/10 |   V2   |Atualiza home                                |Bruna Almeida     |
 |26/11 |   V3   |Atualiza home - Versão final                 |Bruna Almeida     |
+
 </br>
 
 <div> <p align = "center"><img src="./imagens/unb-fga-extenso.jpg" width="700"></div>
