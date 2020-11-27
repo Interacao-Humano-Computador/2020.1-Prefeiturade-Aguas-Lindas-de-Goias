@@ -93,4 +93,4 @@ Após a avaliação e entrevista pôde-se concluir que o protótipo é eficaz pa
 |:-----:|:------:|:-----------------------------------------------------------------------------------:|:--------------:|
 | 18/11 |   V0   |                                Criação do documento                                 | Amanda Bezerra |
 | 18/11 |   V1   | Adiciona conteúdo das seções Objetivo, Perguntas, Método de avaliação e Referências | Amanda Bezerra |
-| 24/11 |   V2   |      Adiciona conteúdo das seções Avaliação, Entrevista e Considerações finais      | Amanda Bezerra |
+| 26/11 |   V2   |      Adiciona conteúdo das seções Avaliação, Entrevista e Considerações finais      | Amanda Bezerra |
