@@ -11,7 +11,7 @@ nav:
   - Perfil do usuário:
     - Questionário: perfil_usuario/questionario.md
     - Personas: perfil_usuario/perfil_personas.md
-    - Entrevista: perfil_usuario/entrevista.md
+    - Entrevistas: perfil_usuario/entrevista.md
   - Análise de requisitos:
     - Características da plataforma: analise_requisitos/caracteristicas_plataforma.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios_diretrizes.md
