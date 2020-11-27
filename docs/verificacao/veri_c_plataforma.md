@@ -8,7 +8,7 @@
 <!-- É a verificação padrão, todo mundo usa essa -->
 - Autores do documento: André Eduardo.
 <!-- Quem fez o documento que está sendo verificado -->
-- Inspetora: .
+- Inspetor: André Eduardo.
   <!-- Quem está fazendo a verificação -->
   <p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_requisitos/caracteristicas_plataforma/">aqui</a></p>
   <!-- Coloca o link do documento q tá sendo verificado -->
