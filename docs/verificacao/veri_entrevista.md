@@ -1,4 +1,4 @@
-# Verificação dos protótipos de papel
+# Verificação da entrevista
 
 <!--  muda conforme o documento que você for verificar -->
 
@@ -28,14 +28,14 @@
 
 <!-- Responder através de tabela, SIM ou NÃO -->
 
-| Checklist | Entrevista 1 |
-| :-------- | :----------- |
-| 1         | NÃO          |
-| 2         | SIM          |
-| 6         | SIM          |
-| 4         | SIM          |
-| 5         | SIM          |
-| 6         | SIM          |
+| Checklist | Entrevista 1 | Entrevista 2 | Entrevista 3 | Entrevista 4 |
+| :-------- | :----------- | :----------- | :----------- | :----------- |
+| 1         | NÃO          | NÃO          | NÃO          | NÃO          |
+| 2         | SIM          | SIM          | SIM          | SIM          |
+| 6         | SIM          | SIM          | SIM          | SIM          |
+| 4         | SIM          | SIM          | SIM          | SIM          |
+| 5         | SIM          | SIM          | SIM          | SIM          |
+| 6         | SIM          | SIM          | SIM          | SIM          |
 
 ## Conclusão
 

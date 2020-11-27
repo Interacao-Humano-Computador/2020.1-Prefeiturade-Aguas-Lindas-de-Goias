@@ -1,4 +1,4 @@
-# Verificação dos protótipos de papel
+# Verificação das metas de usabilidade
 
 <!--  muda conforme o documento que você for verificar -->
 

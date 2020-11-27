@@ -1,4 +1,4 @@
-# Verificação dos protótipos de papel
+# Verificação das características da plataforma
 
 <!--  muda conforme o documento que você for verificar -->
 
