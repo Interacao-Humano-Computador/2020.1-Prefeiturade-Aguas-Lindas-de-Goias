@@ -11,7 +11,7 @@ nav:
   - Perfil do usuário:
     - Questionário: perfil_usuario/questionario.md
     - Personas: perfil_usuario/perfil_personas.md
-    - Entrevista: perfil_usuario/entrevista.md
+    - Entrevistas: perfil_usuario/entrevista.md
   - Análise de requisitos:
     - Características da plataforma: analise_requisitos/caracteristicas_plataforma.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios_diretrizes.md
@@ -29,6 +29,7 @@ nav:
   - Protótipos de Alta-Fidelidade:
     - Protótipos de Alta-Fidelidade: prototipo_alta_fidelidade/prototipo_alta_fidelidade_principal.md
     - Planejamento e avaliação dos protótipos Alta-Fidelidade: prototipo_alta_fidelidade/av_prototipo_alta_fidelidade_principal.md
+  - Verificação: verificacao/verificacao_principal.md
   - Apresentações:
     - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
     - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md
@@ -36,7 +37,8 @@ nav:
     - Quarta entrega (29/10): apresentacoes/apresentacao-29-10.md
     - Quinta entrega (12/11): apresentacoes/apresentacao-12-11.md
     - Sexta entrega (19/11): apresentacoes/apresentacao-19-11.md
-  - Verificação: verificacao/verificacao_principal.md
+    # - Apresentação final (01/12): apresentacoes/apresentacao
+
 
 
 theme:

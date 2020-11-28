@@ -1,33 +1,34 @@
-## Definição
-<p align = "justify">
-Segundo Seidman (1998), a entrevista é uma das técnicas mais utilizadas para a coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado. (Barbosa e Silva, 2010)
-</p>
+# Entrevistas
 
-## Participantes
+## Definição
+
+<p align = "justify">Segundo Seidman (1998), a entrevista é uma das técnicas mais utilizadas para a coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado. (Barbosa e Silva, 2010)</p>
+
+## Participante(s)
 - Bruna Almeida
 - Damarcones dos Santos
 
 ## Resultados
-<p align = "justify">
-O objetivo da entrevista a seguir é refinar o perfil de usuário, previamente criado com base no questionário.
-</p>
-<p align = "justify">
-Usaremos as personas para o papel de entrevistados. As respostas serão dadas com base no perfil de cada persona e no que imaginamos do que se adapta às características definidas para cada um.
-</p>
 
-### **Perguntas**
-<p align = "justify">1. O que te levou a acessar o site da prefeitura de Águas Lindas?</p>
-<p align = "justify">2. Sentiu dificuldade na utilização do site?</p>
-<p align = "justify">3. Você conseguiu acessar o que pretendia?</p>
-<p align = "justify">4. O que você menos gostou do site?</p>
-<p align = "justify">5. Como você se sentiu ao utilizar o site da prefeitura?</p>
-<p align = "justify">6. Na sua opinião, o que faltou para que o site fosse melhor?</p>
+<p align = "justify">O objetivo da entrevista a seguir é refinar o perfil de usuário, previamente criado com base no questionário.</p>
+
+<p align = "justify">Usaremos as personas para o papel de entrevistados. As respostas serão dadas com base no perfil de cada persona e no que imaginamos do que se adapta às características definidas para cada um.</p>
+
+### Perguntas
+1. O que te levou a acessar o site da prefeitura de Águas Lindas?
+2. Sentiu dificuldade na utilização do site?
+3. Você conseguiu acessar o que pretendia?
+4. O que você menos gostou do site?
+5. Como você se sentiu ao utilizar o site da prefeitura?
+6. Na sua opinião, o que faltou para que o site fosse melhor?
 
 
-### **2.  Entrevistas**
-**Entrevista 1**
-<p align = "justify">Entrevistador: Bruna Almeida</p>
-<p align = "justify">Entrevistado: Diana Carvalho</p>
+### Entrevistas
+
+#### **Entrevista 1**
+
+- Entrevistador: Bruna Almeida
+- Entrevistado: Diana Carvalho
 
 |Questão|Resposta|
 |:-----:|:-------|
@@ -38,9 +39,10 @@ Usaremos as personas para o papel de entrevistados. As respostas serão dadas co
 |   5   |Fiquei cansada por ter que procurar tanto a informação que eu queria.
 |   6   |Uma página que eu consiga fazer uma solicitação com mais rapidez.|
 
-**Entrevista 2**
-<p align = "justify">Entrevistador: Bruna Almeida</p>
-<p align = "justify">Entrevistado: Lucas Barbosa</p>
+#### **Entrevista 2**
+
+- Entrevistador: Bruna Almeida
+- Entrevistado: Lucas Barbosa
 
 |Questão|Resposta|
 |:-----:|:-------|
@@ -51,9 +53,10 @@ Usaremos as personas para o papel de entrevistados. As respostas serão dadas co
 |   5   |Fiquei desapontado.|
 |   6   |Uma organização melhor de eventos e notícias da cidade. E o site podia ter um visual melhor também.|
 
-**Entrevista 3**
-<p align = "justify">Entrevistador: Damarcones dos Santos</p>
-<p align = "justify">Entrevistado: Marta Sales</p>
+#### **Entrevista 3**
+
+- Entrevistador: Damarcones dos Santos
+- Entrevistado: Marta Sales
 
 |Questão|Resposta|
 |:-----:|:-------|
@@ -64,9 +67,10 @@ Usaremos as personas para o papel de entrevistados. As respostas serão dadas co
 |   5   |Me senti frustrada. O site fornece poucas informações sobre a história da cidade.|
 |   6   |Possuir mais informações sobre a cidade.|
 
-**Entrevista 4**
-<p align = "justify">Entrevistador: Damarcones dos Santos</p>
-<p align = "justify">Entrevistado: Roberto Martins</p>
+#### **Entrevista 4**
+
+- Entrevistador: Damarcones dos Santos
+- Entrevistado: Roberto Martins
 
 |Questão|Resposta|
 |:-----:|:-------|
@@ -77,26 +81,22 @@ Usaremos as personas para o papel de entrevistados. As respostas serão dadas co
 |   5   |Fiquei triste e desapontado por não conseguir saber nada sobre os concursos aqui da cidade.|
 |   6   |Ter uma pesquisa mais objetiva e ter uma aba destinada apenas à informações sobre concursos públicos.|
 
-### **3.  Considerações finais**
+## Considerações finais
 
-<p align = "justify">
-A partir dos relatos dos entrevistados, tem-se a ideia de que o site foi construído com pouco planejamento, já que todos os entrevistados criticaram funcionalidades precárias ou inexistentes.
-</p>
-<p align = "justify">
-Porém, com essas entrevistas, foi possível refinar um pouco mais o perfil de usuário, deduzindo assim, que o perfil dos usuários que acessam o site da Prefeitura de Águas Lindas são, em sua maioria, críticos, com grau médio de conhecimento sobre sites, e que esperam melhorias no sistema em questão.
-</p>
+<p align = "justify">A partir dos relatos dos entrevistados, tem-se a ideia de que o site foi construído com pouco planejamento, já que todos os entrevistados criticaram funcionalidades precárias ou inexistentes.</p>
+
+<p align = "justify">Porém, com essas entrevistas, foi possível refinar um pouco mais o perfil de usuário, deduzindo assim, que o perfil dos usuários que acessam o site da Prefeitura de Águas Lindas são, em sua maioria, críticos, com grau médio de conhecimento sobre sites, e que esperam melhorias no sistema em questão.</p>
 
 
-#### Referências
+## Referências
 
-<p align = "justify">
-- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-</p>
+- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.</p>
 
 
 ## Versionamento
 
-| Data | Versão |           Descrição             |    Autor    |
-|:----:|:------:|:-------------------------------:|:-----------:|
-|01/10 |V0      |     Criação do documento        |Bruna Almeida|
+| Data | Versão |           Descrição                       |    Autor         |
+|:----:|:------:|:-----------------------------------------:|:----------------:|
+|01/10 |V0      |     Criação do documento                  |Bruna Almeida     |
 |03/10 |V1      |Adiciona entrevistas e considerações finais|Bruna e Damarcones|
+|27/11 |V2      |Verificação do documento                   |Bruna e Damarcones|
