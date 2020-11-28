@@ -20,7 +20,7 @@
 
 ## Resposta
 
-| Checklist | Metas de usabilidade |
+| Checklist | Guia de Estilo       |
 | :-------- | :------------------- |
 | 1         | SIM                  |
 | 2         | SIM                  |
