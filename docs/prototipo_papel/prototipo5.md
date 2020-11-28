@@ -1,7 +1,8 @@
-## Introdução
+# Protótipo de Papel: Visualizar boletim de casos de Coronavírus
+
 Este protótipo foi criado por Amanda Bezerra para a atividade "Visualizar boletim de casos de Coronavírus de um dia específico".
 
-## Protótipo de Papel
+## Resultado
 
 ### Peças criadas para realizar interação
 ![prototipo](../imagens/papel/prototipo_5_partes_separadas.jpg)
@@ -25,7 +26,7 @@ Este protótipo foi criado por Amanda Bezerra para a atividade "Visualizar bolet
 
 ## Versionamento
 
-| Data  | Versão |      Descrição       |     Autor     |
-| :---: | :----: | :------------------: | :-----------: |
-| 11/10 |   V0   | Criação do documento | Bruna Almeida |
-| 12/10 |   V1   |  Adição de das seções Telas e Referências  | André Eduardo |
+| Data  | Versão |                       Descrição                       |     Autor      |
+|:-----:|:------:|:-----------------------------------------------------:|:--------------:|
+| 11/10 |   V0   |                 Criação do documento                  | Bruna Almeida  |
+| 12/10 |   V1   | Adição de conteúdo das seções Resultado e Referências | Amanda Bezerra |
