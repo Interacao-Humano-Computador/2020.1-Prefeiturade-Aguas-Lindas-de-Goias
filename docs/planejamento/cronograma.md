@@ -116,11 +116,11 @@
 
 |               Tarefa                                                     |  Participante(s)   |Entrega|Entrega prevista|
 |:------------------------------------------------------------------------:|:------------------:|:-----:|:--------------:|
-|Verificação 01: Questionário                                              |Amanda Bezerra      |/11  |27/11           |
-|Verificação 02: Personas                                                  |Amanda Bezerra      |/11  |27/11           |
+|Verificação 01: Questionário                                              |Amanda Bezerra      |27/11  |27/11           |
+|Verificação 02: Personas                                                  |Amanda Bezerra      |27/11  |27/11           |
 |Verificação 03: Entrevista                                                |André Eduardo       |26/11  |27/11           |
 |Verificação 04: Características da plataforma                             |André Eduardo       |26/11  |27/11           |
-|Verificação 05: Princípios e diretrizes do projeto                        |Amanda Bezerra      |/11  |27/11           |
+|Verificação 05: Princípios e diretrizes do projeto                        |Amanda Bezerra      |27/11  |27/11           |
 |Verificação 06: Metas de usabilidade                                      |André Eduardo       |26/11  |27/11           |
 |Verificação 07: Guia de estilo                                            |Hugo Aragão         |/11  |27/11           |
 |Verificação 08: Análise de tarefas                                        |Hugo Aragão         |/11  |27/11           |
