@@ -6,7 +6,7 @@
 
 ## Preparação
 
-A realização dessa avaliação foi foi por meio de uma entrevista realizada de maneira remota com usuário que se enquadra nas características descritas pelas <a href="../perfil_usuario/perfil_personas">Personas</a>
+A realização dessa avaliação foi foi por meio de uma entrevista realizada de maneira remota com usuário que se enquadra nas características descritas pelas <a href="../perfil_usuario/perfil_personas">Personas</a></p>
 
 O entrevistado possui as seguintes características: mulher, 24 anos, estudante direito e moradora de águas lindas.
 
@@ -47,8 +47,7 @@ Após a análise do avaliador sobre a entrevista e a revisão do questionário p
 
 ## Versionamento
 
-| Data  |                Versão                |                Descrição                |     Autor     |
-| :---: | :----------------------------------: | :-------------------------------------: | :-----------: |
-| 16/10 |                  V0                  |          Criação do documento           | Bruna Almeida |
-| 18/10 | <a href="../av_protitipo2_v1">v1</a> |           Adição de conteúdo            | André Eduardo |
-| 28/11 |                  v2                  | Refatoração de acordo com a verificação | André Eduardo |
+| Data  | Versão |      Descrição       |     Autor     |
+| :---: | :----: | :------------------: | :-----------: |
+| 16/10 |   V0   | Criação do documento | Bruna Almeida |
+| 18/10 |   V1   |  Adição de conteúdo  | André Eduardo |

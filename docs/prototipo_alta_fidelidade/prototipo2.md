@@ -1,4 +1,4 @@
-# Protótipo de Alta-Fidelidade - Baixar formulário para reclamação
+# Protótipo de Alta-Fidelidade - Buscar notícias
 
 ## Participante
 
