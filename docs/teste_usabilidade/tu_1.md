@@ -1,6 +1,6 @@
 # Teste de usabilidade - Acessar informações da economia
 
-### Preparação
+## Preparação
 A tarefa principal que o participante deve executar é a busca por 
 informações do PIB da cidade de Aguas Lindas de Goiás.
 O roteiro da avaliação consiste no participante ser informado sobre
@@ -36,7 +36,7 @@ site fossem validados e assim avançar a avaliação com a participante.
 O resultado foi satisfatório, a ação pôde ser feita sem interrupções
 por parte dos equipamentos e do software.
 
-### Coleta de dados
+## Coleta de dados
 A participante foi orientada a sentar-se e informada de sua tarefa
 a ser realizada, o aviso foi dado e o cronômetro disparado de modo
 que a participante fosse autorizada a iniciar sua ação. O quadro
@@ -72,7 +72,7 @@ Legenda:
 2. A imagem(x) está disposta nos anexos
 
 
-### Interpretação e consolidação dos resultados
+## Interpretação e consolidação dos resultados
 
 #### Perspectiva do participante
 A participante se queixou de dificuldade de distiguir os itens 
@@ -97,6 +97,7 @@ que estava a observar era a correta.
 * A disposição dos elementos do site causam confusão ao usuário, onde o mesmo 
   demora mais do que o normal para encontrar uma opção desejada no menu.
 
+## Resultados
 #### Sujestões de melhoria
 * Trazer o site para um padrão de design mais atual fará com que o usuário se 
   sinta mais familiarizado com o modo com que o site funciona, diminuíndo o tempo
@@ -108,20 +109,27 @@ que estava a observar era a correta.
 
 ### Anexos
 ![IMG1](../imagens/testeusa/tuimagem1.jpg)
-Imagem(1)
-
+<p align="Left">
+Fig.1 Artigo
+</p>
 <br>
 
 ![IMG2](../imagens/testeusa/tuimagem2.jpg)
-Imagem(2)
+<p align="Left">
+Fig.2 Boletim informativo
+</p>
 <br>
 
 ![IMG3](../imagens/testeusa/tuimagem3.jpg)
-Imagem(3)
+<p align="Left">
+Fig.3 <i>Card</i> de informações
+</p>
 <br>
 
 ![MENU](../imagens/testeusa/tumenu.jpg)
-Imagem do Menu
+<p align="Left">
+Fig.4 Menu
+</p>
 <br>
 
 ### Referências
@@ -135,3 +143,4 @@ Imagem do Menu
 |:----:|:------:|:-------------------------------:|:--------------:|
 |28/10 |V0      |     Criação do documento        |Bruna Almeida   |
 |28/10 |V1      |     Criação do Teste            |Hugo Aragão     |
+|28/10 |V2      |     Revisão                     |Hugo Aragão     |
