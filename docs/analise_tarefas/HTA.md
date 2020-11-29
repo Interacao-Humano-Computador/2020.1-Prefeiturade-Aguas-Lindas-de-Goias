@@ -16,7 +16,7 @@ Segundo o livro Interação Humano Computador(Simone e Bruno), a Análise Hierá
 
 ## Resultados
 
-![Diagrama HTA, para o objetivo de obter informações](../imagens/htainformacoes.jpg)
+![Diagrama HTA, para o objetivo de obter informações](../imagens/HTArevisado.png)
 
 <br></br>
 
