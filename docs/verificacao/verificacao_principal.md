@@ -24,9 +24,9 @@
 <p><a href="../veri_c_plataforma">Verificação 04: Características da plataforma</a></p>
 <p><a href="../veri_principios_diretrizes">Verificação 05: Princípios e diretrizes do projeto</a></p>
 <p><a href="../veri_mt_usabilidade">Verificação 06: Metas de usabilidade</a></p>
-<p><a href="">Verificação 07: Guia de estilo</a></p>
-<p><a href="">Verificação 08: Análise de tarefas</a></p>
-<p><a href="">Verificação 09: Planejamento e avaliação das análises de tarefas</a></p>
+<p><a href="../veri_guia_estilo">Verificação 07: Guia de estilo</a></p>
+<p><a href="../veri_analise_tarefas">Verificação 08: Análise de tarefas</a></p>
+<p><a href="../veri_av_analise_tarefas">Verificação 09: Planejamento e avaliação das análises de tarefas</a></p>
 
 ### Design, avaliação, desenvolvimento
 
@@ -48,3 +48,4 @@
 | :---: | :----: | :---------------------------: | :--------------: |
 | 23/11 |   V0   |     Criação do documento      | Damarcones Porto |
 | 23/11 |   V1   | Adiciona objetivo e resultado |  Bruna Almeida   |
+| 28/11 |   V2   | Adiciona Guia/Analise/Planejamento| Hugo Aragão  |

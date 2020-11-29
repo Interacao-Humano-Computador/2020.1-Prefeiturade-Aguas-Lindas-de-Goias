@@ -31,4 +31,5 @@ Segundo o livro Interação Humano Computador(Simone e Bruno), a Análise Hierá
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
 |01/10 |V0      |     Criação do documento        |Bruna Almeida|
-|03/10 |V1      |     Análise HTA                |Hugo Aragão  |
+|03/10 |V1      |     Análise HTA                 |Hugo Aragão  |
+|28/11 |V2      |     Revisa padrão diagrama      |Hugo Aragão  |
