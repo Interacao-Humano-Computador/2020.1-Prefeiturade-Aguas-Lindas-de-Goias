@@ -122,17 +122,17 @@
 |Verificação 04: Características da plataforma                             |André Eduardo       |26/11  |27/11           |
 |Verificação 05: Princípios e diretrizes do projeto                        |Amanda Bezerra      |27/11  |27/11           |
 |Verificação 06: Metas de usabilidade                                      |André Eduardo       |26/11  |27/11           |
-|Verificação 07: Guia de estilo                                            |Hugo Aragão         |/11  |27/11           |
-|Verificação 08: Análise de tarefas                                        |Hugo Aragão         |/11  |27/11           |
-|Verificação 09: Planejamento e avaliação das análises de tarefas          |Hugo Aragão         |/11  |27/11           |
+|Verificação 07: Guia de estilo                                            |Hugo Aragão         |28/11  |27/11           |
+|Verificação 08: Análise de tarefas                                        |Hugo Aragão         |28/11  |27/11           |
+|Verificação 09: Planejamento e avaliação das análises de tarefas          |Hugo Aragão         |28/11  |27/11           |
 |Verificação 10: Storyboards                                               |Damarcones Porto    |26/11  |27/11           |
 |Verificação 11: Planejamento e avaliação dos Storyboards                  |Damarcones Porto    |26/11  |27/11           |
 |Verificação 12: Protótipos de papel                                       |Damarcones Porto    |26/11  |27/11           |
 |Verificação 13: Planejamento e avaliação dos Protótipos de papel          |Bruna Almeida       |26/11  |27/11           |
 |Verificação 14: Protótipos de alta-fidelidade                             |Bruna Almeida       |26/11  |27/11           |
 |Verificação 15: Planejamento e avaliação dos Protótipos de alta-fidelidade|Bruna Almeida       |26/11  |27/11           |
-|Correção de todos os documentos                                           |Todos os integrantes|/11  |29/11           |
-|Gravação da apresentação final                                            |Todos os integrantes|/11  |30/11           |
+|Correção de todos os documentos                                           |Todos os integrantes|/11  |29/11             |
+|Gravação da apresentação final                                            |Todos os integrantes|/11  |30/11             |
 
 </br>
 
