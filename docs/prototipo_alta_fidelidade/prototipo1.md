@@ -1,4 +1,4 @@
-# Protótipo de Alta-Fidelidade: Copiar telefone de contato de uma Secretaria específica  
+# Protótipo de Alta-Fidelidade: Buscar informações sobre a Economia  
 
 
 <p align="justify">O protótipo de de alta-fidelidade foi desenvolvido na data de 18/11/2020. Ele foi construído com base na tarefa de acessar dados sobre a economia.</p>
