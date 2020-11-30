@@ -51,7 +51,7 @@ Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áud
 <figcaption>Fig. 1 - Captura de tela da tarefa realizada entrevistado </a></figcaption>
 </figure>
 <figure>
-<img align=center width="600" src="../../imagens/papel/pPapel.gif">
+<img align=center width="600" src="../../imagens/papel/papel_busca.gif">
 <br>
 <figcaption>Fig. 2 - Captura de tela do prototipo analisado pelo entrevistado  </a></figcaption>
 </figure>
