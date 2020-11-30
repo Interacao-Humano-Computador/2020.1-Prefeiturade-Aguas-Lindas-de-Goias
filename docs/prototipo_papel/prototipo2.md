@@ -1,18 +1,22 @@
-## Telas
+# Protótipo de papel: Buscar notícias
 
-![Prototipo](../imagens/papel/busca1.png)<br>
-Protótipo de tela 1: Tela inicial do site da prefeitura de Águas lindas<br>
-Autor:André Eduardo<br>
-<br>
+<figure>
+<img align=center width="950" src="../../imagens/papel/tela_busca1.jpg">
+<figcaption>Protótipo de tela 1: Tela inicial do site da prefeitura de Águas lindas<br>
+Autor:André Eduardo<br></figcaption>
+</figure>
 
-![Prototipo](../imagens/papel/busca2.png)<br>
-Protótipo de tela 2: Tela inicial do site, com autocomplete com sugestões de busca<br>
-Autor:André Eduardo<br>
-<br>
+<figure>
+<img align=center width="950" src="../../imagens/papel/tela_busca2.jpg">
+<figcaption>Protótipo de tela 2: Tela inicial do site, com autocomplete com sugestões de busca<br>
+Autor:André Eduardo<br></figcaption>
+</figure>
 
-![Prototipo](../imagens/papel/busca3.png)<br>
-Protótipo de tela 3: Tela de resultado da busca<br>
-Autor:André Eduardo
+<figure>
+<img align=center width="950" src="../../imagens/papel/tela_busca3.jpg">
+<figcaption>Protótipo de tela 3: Tela de resultado da busca<br>
+Autor:André Eduardo</figcaption>
+</figure>
 
 ## Referências
 
@@ -20,7 +24,8 @@ Autor:André Eduardo
 
 ## Versionamento
 
-| Data  | Versão |      Descrição       |     Autor     |
-| :---: | :----: | :------------------: | :-----------: |
-| 11/10 |   V0   | Criação do documento | Bruna Almeida |
-| 12/10 |   V1   |  Adição de conteúdo  | André Eduardo |
+| Data  |              Versão               |      Descrição       |     Autor     |
+| :---: | :-------------------------------: | :------------------: | :-----------: |
+| 11/10 |                V0                 | Criação do documento | Bruna Almeida |
+| 12/10 | <a href="../prototipo2_v1">v1</a> |  Adição de conteúdo  | André Eduardo |
+| 12/10 |                V2                 |   Mudando imagens    | André Eduardo |
