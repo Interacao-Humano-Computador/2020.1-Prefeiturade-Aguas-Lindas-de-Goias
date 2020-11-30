@@ -1,4 +1,4 @@
-# Cronograma 
+# Cronograma de atividades
 
 ## 1ª Entrega - Planejamento do Projeto
 <p align = "justify">Realizado de 07/09 até 21/09.</p>
@@ -131,8 +131,8 @@
 |Verificação 13: Planejamento e avaliação dos Protótipos de papel          |Bruna Almeida       |26/11  |27/11           |
 |Verificação 14: Protótipos de alta-fidelidade                             |Bruna Almeida       |26/11  |27/11           |
 |Verificação 15: Planejamento e avaliação dos Protótipos de alta-fidelidade|Bruna Almeida       |26/11  |27/11           |
-|Correção de todos os documentos                                           |Todos os integrantes|/11  |29/11             |
-|Gravação da apresentação final                                            |Todos os integrantes|/11  |30/11             |
+|Correção de todos os documentos                                           |Todos os integrantes|30/11  |29/11           |
+|Gravação da apresentação final                                            |Todos os integrantes|30/11  |30/11           |
 
 </br>
 

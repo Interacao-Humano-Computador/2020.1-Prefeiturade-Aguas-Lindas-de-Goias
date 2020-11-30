@@ -4,10 +4,11 @@ repo_name: 2020.1-Prefeiturade-Aguas-Lindas-de-Goias
 nav:
   - Home: index.md
   - Cronograma de atividades: planejamento/cronograma.md
+  - Processo de Design: planejamento/processo.md
+
   - Planejamento:
     - Sites Avaliados: planejamento/sites.md
     - Site Selecionado: planejamento/site.md
-    - Processo de Design: planejamento/processo.md
   - Perfil do usuário:
     - Questionário: perfil_usuario/questionario.md
     - Personas: perfil_usuario/perfil_personas.md
@@ -29,7 +30,7 @@ nav:
   - Protótipos de Alta-Fidelidade:
     - Protótipos de Alta-Fidelidade: prototipo_alta_fidelidade/prototipo_alta_fidelidade_principal.md
     - Planejamento e avaliação dos protótipos Alta-Fidelidade: prototipo_alta_fidelidade/av_prototipo_alta_fidelidade_principal.md
-  - Verificação: verificacao/verificacao_principal.md
+  - Verificações: verificacao/verificacao_principal.md
   - Apresentações:
     - Primeira entrega (21/09): apresentacoes/apresentacao-21-09.md
     - Segunda entrega (05/10): apresentacoes/apresentacao-05-10.md
@@ -37,7 +38,7 @@ nav:
     - Quarta entrega (29/10): apresentacoes/apresentacao-29-10.md
     - Quinta entrega (12/11): apresentacoes/apresentacao-12-11.md
     - Sexta entrega (19/11): apresentacoes/apresentacao-19-11.md
-    # - Apresentação final (01/12): apresentacoes/apresentacao
+    - Apresentação final (01/12): apresentacoes/apresentacao-final.md
 
 
 
