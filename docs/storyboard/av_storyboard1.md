@@ -60,6 +60,7 @@ Logo abaixo consta o termo de consentimento que deve ser lido pelo entrevistado.
 ## Avaliação
 
 A execução prática se deu da seguinte forma:
+
 - Via vídeo chamada o participante iniciou o compartilhamento de tela de seu computador
 - O participante foi orientado de acorodo com a tarefa descrita no storyboard
 - Houve uma breve apresentação da plataforma ao participante
