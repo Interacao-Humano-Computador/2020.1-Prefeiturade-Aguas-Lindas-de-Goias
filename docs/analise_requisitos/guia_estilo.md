@@ -16,9 +16,10 @@
 
 
 ## Participantes
-- Bruna Almeida e Damarcones Porto
+- Bruna Almeida 
+- Damarcones Porto
 
-## Resultados
+
 
 ## 1 INTRODUÇÃO
 <!--  -->
@@ -29,7 +30,7 @@
 <p align = "justify">Este Guia de Estilo está organizado no GitPages, afim de fornecer uma maior clareza sobre a consulta do layout e principais características do site.</p>
 
 ### 1.3 Público-alvo do guia de estilos
-<p align = "justify">O público alvo desse guia são os próprios integrantes da equipe, que está propondo uma reestruturação do site.</p>
+<p align = "justify">O público alvo desse guia são os próprios integrantes da equipe, que estão propondo uma reestruturação do site.</p>
 
 ### 1.4 Como utilizar o guia
 <p align = "justify">O guia deve ser utilizado como base para as próximas atividades do projeto, especialmente na elaboração do protótipo de melhorias para o site.</p>
@@ -80,7 +81,7 @@
 <br>
 
 ### 3.2 Janelas
-<p align = "justify"> O site possui inúmeras janelas. Existe janela para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, encontra-se um exemplo de janela do site.</p>
+<p align = "justify"> O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, encontra-se alguns exemplos de janelas do site.</p>
 
 <figure>
 <img align=center width="600" src="../../imagens/guia/janela.png">
@@ -199,13 +200,13 @@
 <p align = "justify">Não existe opção de seleção no procedimento anterior.</p>
 
 ### 5.3 Ativação
-<p align = "justify">Apos todas os campos preenchidos corretamente, basta o usuário clicar no botão "enviar".</p>
+<p align = "justify">Apos todos os campos preenchidos corretamente, basta o usuário clicar no botão "enviar".</p>
 
 
 ## 6 VOCABULÁRIO E PADRÕES
 <!--  -->
 ### 6.1 Terminologia
-<p align = "justify">A linguagem utilizada no site é bem simples e de fácil entendimento, exceto termos ligados ao poder administrativo, esses não são passíveis de alterações por se tratarem de palavras específicas da adminsitração pública.</p>
+<p align = "justify">A linguagem utilizada no site é bem simples e de fácil entendimento, exceto termos ligados ao poder administrativo, esses não são passíveis de alterações por se tratarem de palavras específicas da administração pública.</p>
 
 ### 6.2 Tipos de tela
 <p align = "justify">O site possui uma tela padrão para todas as suas páginas, fora aqueles serviços que são realizados obrigatoriamente fora dele, dando assim, uma sensação de conforto para o usuário por não se deparar com ambientes totalmente desconhecidos.</p>
@@ -220,7 +221,7 @@
 </p>
 </div>
 <div><p align = "justify">
-- Todas as imagens apresentadas nessa página foram criada utilizando o <a href= "https://www.canva.com/pt_br/">Canvas</a>.
+- Todas as imagens apresentadas nessa página foram criadas utilizando o <a href= "https://www.canva.com/pt_br/">Canvas</a>.
 </p>
 </div>
 <div><p align = "justify">
@@ -241,3 +242,4 @@
 |13/10 |V2      |Adiciona Definição               |Bruna Almeida|
 |13/10 |V3      |Adiciona Resultados              |Bruna e Damarcones|
 |28/10 |V4      |Adiciona prints do site          |Bruna, Damarcones|
+|30/11 |V5      |Corrigi documento                |Bruna, Damarcones|
