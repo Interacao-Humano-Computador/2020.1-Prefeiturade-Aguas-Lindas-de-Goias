@@ -27,16 +27,18 @@ Do ponto de vista de desempenho da interface, a plataforma falha na maioria dos 
 
 #### Imagens da tela
 
+<p>
 <figure>
 <img align=Center width="700" src="../imagens/menubug.jpg">
 Imagem 1 - Erro na disposição dos elementos do menu.
 </figure>
 
-
 <figure>
 <img align=Center width="700" src="../imagens/interfacebug.jpg">
 Imagem 2 - Elementos ultrapassam os limites da tela e de si mesmos.
 </figure>
+</p>
+
 
 ## Referências
 + Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
