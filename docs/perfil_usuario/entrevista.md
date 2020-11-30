@@ -99,4 +99,4 @@
 |:----:|:------:|:-----------------------------------------:|:----------------:|
 |01/10 |V0      |     Criação do documento                  |Bruna Almeida     |
 |03/10 |V1      |Adiciona entrevistas e considerações finais|Bruna e Damarcones|
-|27/11 |V2      |Verificação do documento                   |Bruna e Damarcones|
+|27/11 |V2      |Verificação e correção do documento        |Bruna e Damarcones|

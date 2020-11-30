@@ -1,17 +1,14 @@
-## Definição
-<div><p align = "justify">
-Cooper (1999) define persona como um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. É utilizada principalmente para representar um grupo de usuários finais durante  discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos. (Barbosa e Silva, 2010).
-</p>
-</div>
+# Personas
 
-## Participantes
+## Definição
+<p align = "justify">Cooper (1999) define persona como um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. É utilizada principalmente para representar um grupo de usuários finais durante  discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos. (Barbosa e Silva, 2010).</p>
+
+
+## Participante(s)
 - Bruna Almeida
 
 ## Resultados
-<div><p align = "justify">
-As personas apresentadas a seguir foram criadas a partir dos resultados do questionário desenvolvido pelo integrante da equipe Damarcones dos Santos.
-</p>
-</div>
+<p align = "justify">As personas apresentadas a seguir foram criadas a partir dos resultados do <a href = "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/questionario/">questionário</a> desenvolvido pelo integrante da equipe Damarcones dos Santos.</p>
 
 ### **Diana Carvalho**
 <div class="toolgrid">
@@ -65,7 +62,7 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
     A rotina de Lucas se resume em: trabalhar durante o dia, de segunda à sexta, e nos finais de semana ir à festas para se divertir e conhecer pessoas novas. Por ser morador da cidade, Lucas é um influenciador no processo de desenvolvimento do site.
     </p>
     <p align = "justify">
-    Lucas prefere acessar aplicativos, ao inves de páginas web. Mas, nessa ocasião, decidiu acessar o site da prefeitura para conferir se havia algum evento agendado que seria realizado pela administração municipal. 
+    Lucas prefere acessar aplicativos, ao invés de páginas web. Mas, nessa ocasião, decidiu acessar o site da <a href = "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/questionario/">Prefeitura Municipal</a> para conferir se havia algum evento agendado que seria realizado pela administração municipal. 
     </p>
     <p align = "justify">
     Para Lucas, seria muito interessante que existisse no site, uma página dedicada aos eventos que irão ocorrer na cidade, e que fosse atualizada frequentemente. Atualmente, Lucas busca essas informações com amigos e grupos nas redes sociais no qual ele faz parte.
@@ -123,7 +120,7 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
     Roberto entra no serviço às 11 da manhã e sai às 10 da noite. Ele leva essa rotina puxada porque foi a única forma que encontrou para sustentar sua família. Por ser morador da cidade, Roberto é um influenciador no processo de desenvolvimento do site.
     </p>
     <p align = "justify">
-    Devido à rotina de trabalho, Roberto não tem muito tempo para internet, acessa apenas para ver notícias. Por isso ele gostaria que as informações sobre concursos públicos em Águas Lindas fossem encontradas de forma rápida e fácil no site da Prefeitura da cidade.
+    Devido à rotina de trabalho, Roberto não tem muito tempo para internet, acessa apenas para ver notícias. Por isso ele gostaria que as informações sobre concursos públicos em Águas Lindas fossem encontradas de forma rápida e fácil no site da <a href = "https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/questionario/">Prefeitura</a> da cidade.
     </p>
     <p align = "justify">
     Atualmente, ele precisa garimpar essas informações na página de notícias gerais da cidade, o que toma um certo tempo e isso o incomoda.
@@ -163,23 +160,16 @@ As personas apresentadas a seguir foram criadas a partir dos resultados do quest
 </div>
 <br>
 
-#### Referências
+## Referências
 
-<div><p align = "justify">
 - Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-</p>
-</div>
-
-<div><p align = "justify">
-- Banco de imagens 'FreePick', disponível em: https://br.freepik.com/
-</p>
-</div>
-
+- Banco de imagens <a href = "https://br.freepik.com/">FreePick</a>. 
 
 
 ## Versionamento
 
-| Data | Versão |      Descrição       |    Autor    |
-|:----:|:------:|:--------------------:|:-----------:|
-|01/10 |V0      | Criação do documento |Bruna Almeida|
-|03/10 |V1      | Adiciona personas    |Bruna Almeida|
+|Data |Versão|      Descrição       |    Autor    |
+|:---:|:----:|:--------------------:|:-----------:|
+|01/10|V0    | Criação do documento |Bruna Almeida|
+|03/10|V1    | Adiciona personas    |Bruna Almeida|
+|30/11|V2    |Verificação e correção do documento|Bruna Almeida|
