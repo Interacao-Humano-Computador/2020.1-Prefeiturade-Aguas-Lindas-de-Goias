@@ -35,5 +35,5 @@ De acordo com a verificação realizada, foi possível concluir que o documento 
 
 | Data  | Versão |      Descrição       |     Autor     |
 | :---: | :----: | :------------------: | :-----------: |
-| 23/11 |   V0   | Criação do documento | Bruna Almeida |
+| 23/11 |   V0   | Criação do documento | André Eduardo |
 | 26/11 |   V0   |  Adição de conteúdo  | André Eduardo |

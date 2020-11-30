@@ -33,3 +33,5 @@
 |21/10 |V1      |  Adiciona links dos storyboards |Damarcones Porto|
 |11/11 |V2      |   Refatoração do documento      |Bruna Almeida|
 
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>
+

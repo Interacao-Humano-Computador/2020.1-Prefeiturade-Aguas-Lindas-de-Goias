@@ -173,3 +173,5 @@
 |01/10|V0    | Criação do documento |Bruna Almeida|
 |03/10|V1    | Adiciona personas    |Bruna Almeida|
 |30/11|V2    |Verificação e correção do documento|Bruna Almeida|
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

@@ -49,3 +49,7 @@
 | 23/11 |   V0   |     Criação do documento      | Damarcones Porto |
 | 23/11 |   V1   | Adiciona objetivo e resultado |  Bruna Almeida   |
 | 28/11 |   V2   | Adiciona Guia/Analise/Planejamento| Hugo Aragão  |
+
+</br>
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

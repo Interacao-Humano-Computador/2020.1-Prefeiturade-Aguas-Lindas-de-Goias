@@ -44,5 +44,5 @@ Os documentos seguem o padrão pré-estabelecido e estão preenchidos de forma a
 
 | Data  | Versão |      Descrição       |     Autor     |
 | :---: | :----: | :------------------: | :-----------: |
-| 23/11 |   V0   | Criação do documento | Bruna Almeida |
+| 23/11 |   V0   | Criação do documento | Hugo Aragão   |
 | 27/11 |   V1   |  Verificação         | Hugo Aragão   |

@@ -66,3 +66,5 @@ Essa meta se refere ao quão fácil será lembrar como utilizar o sistema após 
 | :---: | :----: | :---------------------------------------------------: | :------------: |
 | 08/10 |   V0   |                 Criação do documento                  | Bruna Almeida  |
 | 10/10 |   V1   | Adição de conteúdo das seções de metas de usabilidade | Amanda Bezerra |
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

@@ -3,7 +3,7 @@
 ## Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List.
-- Autores do documento: Bruna, Damarcones, Hugo, Amanda, André.
+- Autores do documento: Damarcones, Hugo, Amanda, André.
 - Inspetor: Hugo Aragão.
 
 <p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_tarefas/AnaliseTarefas/">aqui</a>.</p>
@@ -39,5 +39,5 @@ As análises seguem um padrão pré-estabelecido, a análise CTT requerer corre�
 
 | Data  | Versão |      Descrição       |     Autor     |
 | :---: | :----: | :------------------: | :-----------: |
-| 23/11 |   V0   | Criação do documento | Bruna Almeida |
+| 23/11 |   V0   | Criação do documento | Hugo Aragão   |
 | 27/11 |   V1   |  Verificação         | Hugo Aragão   |
