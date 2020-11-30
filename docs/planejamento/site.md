@@ -52,10 +52,6 @@
 
 <p align = "justify">O método de avaliação heurística não envolve diretamente usuários. Por esse motivo, o próprio avaliador se coloca no lugar de usuário com o perfil desejado, sendo assim, não é necessário tomar nenhum cuidado ético com relação ao usuário.</p>
 
-
-## 6  Avaliação
-
-<p align = "justify">Como indicado no método DECIDE, depois de todo o planejamento - objetivos, perguntas a serem respondidas, método escolhido, questões práticas da avaliação e questões éticas - , o último passo é avaliar.</p>
 <p align = "justify">Antes de iniciar à avaliação, é preciso esclarecer alguns pontos que serão usados na avaliação heurística. Para uma melhor organização, será usada uma tabela semelhante à proposta no artigo Avaliação Heurística de Sítios na Web (Maciel, C., et al.). Para descrever melhor o problema de usabilidade e uma sugestão de correção, as seguintes especificações podem ser usadas:</p>
 
 - <b>Contexto:</b> é a situação de uso em que o problema pode ser verificado ou diagnosticado;
@@ -103,8 +99,10 @@
 - <b>Ajuda aos usuários no reconhecimento, diagnóstico e correção de erros:</b> as mensagens devem ser expressas em linguagem clara, indicando as possíveis soluções.
 - <b>Ajuda e documentação:</b> a informação desejada deve ser facilmente encontrada, de preferência deve ser contextualizada e não muito extensa.
 
-<p align = "justify">Com as especificações já esclarecidas, pode-se dar início à avaliação.</p>
-</br>
+
+## 6  Avaliação
+
+<p align = "justify">Como indicado no método DECIDE, depois de todo o planejamento - objetivos, perguntas a serem respondidas, método escolhido, questões práticas da avaliação e questões éticas - , o último passo é avaliar.</p>
 
 <figure>
 <img align=center width="700" src="../../imagens/tabela1.png">

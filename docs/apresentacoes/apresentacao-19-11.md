@@ -1,5 +1,7 @@
 # 6ª entrega - Planejamento e avaliação do protótipo de Alta-fidelidade
-De 13/10 até 19/11
+
+<p align="justify">De 13/10 até 19/11</p>
+<p align="justify">Nessa etapa, foram desenvolvidos protótipos de alta-fidelidade, e suas respectivas avaliações.</p>
 
 ## Vídeo da apresentação
 
