@@ -27,17 +27,12 @@ Do ponto de vista de desempenho da interface, a plataforma falha na maioria dos 
 
 #### Imagens da tela
 
-<p>
-<figure>
-<img align=Center width="700" src="../imagens/menubug.jpg">
-Imagem 1 - Erro na disposição dos elementos do menu.
-</figure>
 
-<figure>
+<h5>Imagem 1 - Erro na disposição dos elementos do menu.</h5>
+<img align=Center width="700" src="../imagens/menubug.jpg">
+
+<h5>Imagem 2 - Elementos ultrapassam os limites da tela e de si mesmos.</h5>
 <img align=Center width="700" src="../imagens/interfacebug.jpg">
-Imagem 2 - Elementos ultrapassam os limites da tela e de si mesmos.
-</figure>
-</p>
 
 
 ## Referências
