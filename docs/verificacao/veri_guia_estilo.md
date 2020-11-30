@@ -38,5 +38,5 @@ O documento está apresentado de forma satisfatória, apenas requer uma breve re
 
 | Data  | Versão |      Descrição       |     Autor     |
 | :---: | :----: | :------------------: | :-----------: |
-| 23/11 |   V0   | Criação do documento | Bruna Almeida |
+| 23/11 |   V0   | Criação do documento | Hugo Aragão   |
 | 27/11 |   V1   |  Verificação         | Hugo Aragão   |

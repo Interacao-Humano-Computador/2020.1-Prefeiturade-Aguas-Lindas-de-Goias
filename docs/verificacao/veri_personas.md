@@ -1,19 +1,15 @@
 # Verificação das personas
-<!--  muda conforme o documento que você for verificar -->
 
 ## Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List.
-<!-- É a verificação padrão, todo mundo usa essa -->
-- Autores do documento: Bruna Almeida.
-<!-- Quem fez o documento que está sendo verificado -->
+- Autor do documento: Bruna Almeida.
 - Inspetora: Amanda Bezerra.
-<!-- Quem está fazendo a verificação -->
-<p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/perfil_personas/">aqui</a></p>
-<!-- Coloca o link do documento q tá sendo verificado -->
+
+<p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/perfil_usuario/perfil_personas/">aqui</a>.</p>
+
 
 ## Checklist
-<!-- Fazer perguntas que levem à padronização do documento -->
 
 1. A descrição da persona está livre de erros ortográficos ou gramaticais?
 
@@ -31,7 +27,6 @@
 
 ## Resposta
 
-<!-- Responder através de tabela, SIM ou NÃO -->
 
 | Checklist | Persona Diana Carvalho | Persona Lucas Barbosa | Persona Marta Sales | Persona Roberto Martins | Persona Carla Leite |
 |:----------|:-----------------------|:----------------------|:--------------------|:------------------------|:--------------------|
@@ -49,7 +44,7 @@
 A verificação mostrou que a documentação das personas está em conformidade com o esperado, apresentando apenas pequenos erros de português e assim necessitando de revisão e correção.
 </p>
 
-<!-- Concluir falando como foi a verificação, se tem muitas coisas pra mudar, se os documentos diferem muito dos outros -->
+## Versionamento
 
 | Data  | Versão |                                Descrição                                |     Autor      |
 |:-----:|:------:|:-----------------------------------------------------------------------:|:--------------:|

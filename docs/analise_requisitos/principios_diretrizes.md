@@ -120,3 +120,5 @@ fácil reverter as operações e difícil realizar ações irreversíveis.
 | :---: | :----: | :------------------: | :-----------: |
 | 08/10 |   V0   | Criação do documento | Bruna Almeida |
 | 12/10 |   V1   |  Adição de conteúdo  | André Eduardo |
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

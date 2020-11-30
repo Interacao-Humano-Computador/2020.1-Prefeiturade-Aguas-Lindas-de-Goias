@@ -147,3 +147,5 @@
 |09/11 |V4      |Adiciona cronograma da 5ª entrega|Bruna Almeida|
 |18/11 |V5      |Adiciona cronograma da 6ª entrega|Bruna Almeida|
 |23/11 |V6      |Adiciona cronograma da 7ª entrega|Bruna Almeida|
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

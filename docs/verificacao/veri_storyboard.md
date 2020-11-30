@@ -6,7 +6,7 @@
 - Autores do documento: Amanda, André, Bruna, Damarcones, Hugo.
 - Inspetor: Damarcones Porto.
 
-<p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/storyboard/av_storyboard_principal/">aqui</a></p>
+<p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/storyboard/av_storyboard_principal/">aqui</a>.</p>
 
 
 ## Checklist

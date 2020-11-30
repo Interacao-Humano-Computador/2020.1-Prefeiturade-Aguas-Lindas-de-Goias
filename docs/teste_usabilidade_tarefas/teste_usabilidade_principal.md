@@ -39,3 +39,5 @@
 |28/10 |V0      |     Criação do documento        |Damarcones Porto|
 |29/10 |V1      |Adição da introdução e linkagem  |Bruna Almeida   |
 |10/11 |V2      | Refatoração do documento        |Damarcones Porto|
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

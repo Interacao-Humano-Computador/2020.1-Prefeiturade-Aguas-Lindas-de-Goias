@@ -50,3 +50,5 @@
 |19/09 |  V1  |Adiciona processo de design |Bruna e Damarcones|
 |09/11 |  V2  |Refatoração do documento    |Damarcones Porto  |
 |30/11 |  V3  |Refatoração do documento    |Bruna Almeida     |
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

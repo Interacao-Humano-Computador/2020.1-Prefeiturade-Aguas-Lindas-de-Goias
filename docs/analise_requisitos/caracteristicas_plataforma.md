@@ -50,3 +50,5 @@ Do ponto de vista de desempenho da interface, a plataforma falha na maioria dos 
 |08/10 |V0      |     Criação do documento        |Bruna Almeida|
 |12/10 |V1      |   Análise das características da plataforma| Hugo Aragão|
 |30/10 |V2      |   Refatoração do documento      | Hugo Aragão|
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

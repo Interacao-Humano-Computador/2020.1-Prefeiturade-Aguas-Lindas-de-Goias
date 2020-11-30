@@ -1,19 +1,14 @@
 # Verificação dos princípios e diretrizes
-<!--  muda conforme o documento que você for verificar -->
 
 ## Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List.
-<!-- É a verificação padrão, todo mundo usa essa -->
-- Autores do documento: André Eduardo.
-<!-- Quem fez o documento que está sendo verificado -->
+- Autor do documento: André Eduardo.
 - Inspetora: Amanda Bezerra.
-<!-- Quem está fazendo a verificação -->
-<p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_requisitos/principios_diretrizes/">aqui</a></p>
-<!-- Coloca o link do documento q tá sendo verificado -->
+
+<p align = "justify">Os documentos verificados estão disponíveis <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_requisitos/principios_diretrizes/">aqui</a>.</p>
 
 ## Checklist
-<!-- Fazer perguntas que levem à padronização do documento -->
 
 1. A descrição dos princípios e diretrizes estão livres de erros ortográficos ou gramaticais?
 
@@ -25,7 +20,6 @@
 
 ## Resposta
 
-<!-- Responder através de tabela, SIM ou NÃO -->
 
 | Checklist | Princípios e diretrizes |
 |:----------|:------------------------|
@@ -40,9 +34,9 @@
 A verificação mostrou que a documentação de princípios e diretrizes está em conformidade com o esperado, apresentando apenas pequenos erros de português e assim necessitando de revisão e correção.
 </p>
 
-<!-- Concluir falando como foi a verificação, se tem muitas coisas pra mudar, se os documentos diferem muito dos outros -->
+## Versionamento
 
 | Data  | Versão |                                Descrição                                |     Autor      |
 |:-----:|:------:|:-----------------------------------------------------------------------:|:--------------:|
-| 23/11 |   V0   |                          Criação do documento                           | Bruna Almeida  |
+| 23/11 |   V0   |                          Criação do documento                           | Amanda Bezerra |
 | 25/11 |   V1   | Adição de conteúdo das seções Contexto, Checklist, Resposta e Conclusão | Amanda Bezerra |

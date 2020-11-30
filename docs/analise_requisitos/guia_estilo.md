@@ -243,3 +243,5 @@
 |13/10 |V3      |Adiciona Resultados              |Bruna e Damarcones|
 |28/10 |V4      |Adiciona prints do site          |Bruna, Damarcones|
 |30/11 |V5      |Corrigi documento                |Bruna, Damarcones|
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

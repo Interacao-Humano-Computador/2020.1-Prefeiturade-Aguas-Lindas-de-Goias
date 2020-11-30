@@ -140,3 +140,5 @@
 |19/09 |   V1   |Adiciona informações do site              |Bruna e Damarcones|
 |03/10 |   V2   |Adiciona planejamento e avaliação do site |Bruna Almeida     |
 |09/11 |   V3   |Refatoração do documento                  |Bruna Almeida     |
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

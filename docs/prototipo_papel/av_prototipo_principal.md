@@ -32,3 +32,5 @@
 |:----:|:------:|:-------------------------------:|:-----------:|
 |10/11 |V0      |     Criação do documento        |Damarcones Porto|
 |11/11 |V1      |  Adiciona metodologia e links   |Bruna Almeida|
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

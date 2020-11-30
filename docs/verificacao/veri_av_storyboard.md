@@ -39,5 +39,5 @@
 
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
-|23/11 |V0      |     Criação do documento        |Bruna Almeida|
+|23/11 |V0      |     Criação do documento        |Damarcones Porto|
 |27/11 |V1      |     Realização da verificação   |Damarcones Porto|
