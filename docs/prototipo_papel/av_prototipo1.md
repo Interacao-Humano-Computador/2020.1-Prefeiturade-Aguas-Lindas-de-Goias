@@ -1,8 +1,21 @@
-# Teste de usabilidade - Buscar no site
+# Teste de usabilidade - Buscar informações sobre a Economia
 
-## Planejamento da avaliação
+## Planejamento
+<p align="justify">O <i>Framework</i> <b>DECIDE</b> será utilizado para o planejamento da avaliação que será apresentada a seguir.</p>
 
-<a href="../plane_prototipo2">Buscar no site</a>
+## Objetivo
+
+<p align="justify">A avaliação desse protótipo de papel ajudará a concluir o segundo nível da fase de Design, avaliação e desenvolvimento da Engenharia de Usabilidade de Mayhew.</p>
+
+##  Questões éticas
+
+<p align="justify">Logo abaixo consta o termo de consentimento que deve ser lido pelo entrevistado.</p>
+
+<object data="../../imagens/TERMO_DE_CONSENTIMENTO_prot_papel.pdf" type="application/pdf" width="700px" height="500px">
+<embed src="../../imagens/TERMO_DE_CONSENTIMENTO_prot_papel.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../imagens/TERMO_DE_CONSENTIMENTO_prot_papel.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Preparação
 
@@ -55,3 +68,4 @@ Após a análise do avaliador sobre a entrevista e a revisão do questionário p
 | :---: | :----: | :------------------: | :-----------: |
 | 11/10 |   V0   | Criação do documento | Bruna Almeida |
 | 11/10 |   V1   |  Adição de conteúdo  | Hugo Aragão   |
+| 30/11 |   V2   |  Refatora documento  | Hugo Aragão   |
