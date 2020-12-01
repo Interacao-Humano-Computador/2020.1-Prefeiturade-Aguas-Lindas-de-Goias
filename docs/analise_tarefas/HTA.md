@@ -12,19 +12,20 @@ Segundo o livro Interação Humano Computador(Simone e Bruno), a Análise Hierá
 
 ## Participantes
 
-* Hugo Aragão
+- Hugo Aragão
 
 ## Resultados
 
-![Diagrama HTA, para o objetivo de obter informações](../imagens/HTArevisado.png)
+<figure>
+<img align=center width="500" src="../../imagens/HTArevisado.png">
+<br>
+<figcaption>Fig. 01 - Diagrama HTA, para o objetivo de obter informações</figcaption>
+</figure>
 
-<br></br>
-
-1.Diagrama HTA, para o objetivo de obter informações
 
 ## Referências
 
-+ Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento
 

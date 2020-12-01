@@ -2,11 +2,11 @@
 
 ## Preparação
 
-Para a validação da <a href="../../analise_tarefas/CTT">tarefa</a> Buscar notícias, será realizada uma entrevista com uma pessoa. Essa entrevista consistirá na realização da tarefa de buscar uma notícia dentro do site avaliado. Para isso a tela da persona será gravada no momento da entrevista.
+<p align = "justify">Para a validação da <a href="../../analise_tarefas/CTT">tarefa</a> Buscar notícias, será realizada uma entrevista com uma pessoa. Essa entrevista consistirá na realização da tarefa de buscar uma notícia dentro do site avaliado. Para isso a tela da persona será gravada no momento da entrevista.</p>
 
-A entrevista será realizada por um dos integrantes do grupo, ao qual será responsável por orientar a realização da tarefa e em seguida apresentar um questionário desenvolvido com objetivo de verificar se o modelo proposto esta condizente com o usado na aplicação, se atende as expectativas do usuário e possíveis críticas ou sugestões de melhoria sobre o modelo.
+<p align = "justify">A entrevista será realizada por um dos integrantes do grupo, ao qual será responsável por orientar a realização da tarefa e em seguida apresentar um questionário desenvolvido com objetivo de verificar se o modelo proposto esta condizente com o usado na aplicação, se atende as expectativas do usuário e possíveis críticas ou sugestões de melhoria sobre o modelo.</p>
 
-<p>O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
+<p align = "justify">O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado em: <a href="../perfil_usuario/perfil_personas">Personas</a></p>
 
 ## Coleta de dados
 
@@ -26,12 +26,12 @@ Perguntas respondidas pela persona: <br>
 
 ## Interpretação e consolidação dos resultados
 
-Para assegurar a qualidade dos dados, o entrevistador deve explicar de maneira bem clara o funcionamento da tarefa analisada. Além disso, a primeira pergunta do questionário busca deixar claro o entendimento dessa tarefa. Caso a resposta seja negativa, o questionário não tem valor para fins de avaliação do storyboard.
+<p align = "justify">Para assegurar a qualidade dos dados, o entrevistador deve explicar de maneira bem clara o funcionamento da tarefa analisada. Além disso, a primeira pergunta do questionário busca deixar claro o entendimento dessa tarefa. Caso a resposta seja negativa, o questionário não tem valor para fins de avaliação do storyboard.</p>
 
 ## Resultados
 
-Após a realização do teste com a persona, foi possível validar o desenvolvimento do storyboard.
-O entrevistado declarou que a tarefa realizada e a tarefa desenvolvida no storyboard apresenta o mesmo fluxo. Entretanto, o mesmo não foi capaz de indicar possíveis melhorias no desenvolvimento da tarefa.
+<p align = "justify">Após a realização do teste com a persona, foi possível validar o desenvolvimento do storyboard.
+O entrevistado declarou que a tarefa realizada e a tarefa desenvolvida no storyboard apresenta o mesmo fluxo. Entretanto, o mesmo não foi capaz de indicar possíveis melhorias no desenvolvimento da tarefa.</p>
 
 ## Referências
 

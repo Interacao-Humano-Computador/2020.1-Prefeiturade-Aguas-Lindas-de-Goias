@@ -68,9 +68,9 @@ Após a finalização do teste foi realizada a seguinte entrevista com o partici
 
 ## Considerações finais
 
-Pelo vídeo do teste e pela entrevista após o teste pôde-se perceber que o participante executou a tarefa utilizando o protótipo sem dificuldades, o que pressupõe que a interação utilizando o site real também seria fácil para a realização da tarefa que foi solicitada.
+<p align = "justify">Pelo vídeo do teste e pela entrevista após o teste pôde-se perceber que o participante executou a tarefa utilizando o protótipo sem dificuldades, o que pressupõe que a interação utilizando o site real também seria fácil para a realização da tarefa que foi solicitada.</p>
 
-O participante sugeriu que fosse criada uma forma de acessar as notícias da cidade através de categorias, o que idealmente levaria a um refinamento do protótipo de papel e novo teste para validação da funcionalidade.
+<p align = "justify">O participante sugeriu que fosse criada uma forma de acessar as notícias da cidade através de categorias, o que idealmente levaria a um refinamento do protótipo de papel e novo teste para validação da funcionalidade.</p>
 
 ## Referências
 

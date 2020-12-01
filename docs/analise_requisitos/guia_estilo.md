@@ -2,7 +2,7 @@
 
 ## Definição
 
-<p align = "justify">O guia de estilo é um registro das principais decisões de design tomadas, de forma que elas não se percam. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto. (Barbosa e Silva, 2010)</p>
+<p align = "justify">O guia de estilo é um registro das principais decisões de design tomadas, de forma que elas não se percam. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto <i>(Barbosa e Silva, 2010)</i>.</p>
 <p align = "justify">A imagem a seguir ilustra a fase da engenharia de usabilidade de Mayhew que estamos desenvolvendo.</p>
 
 <figure>
@@ -241,7 +241,7 @@
 |13/10 |V1      |Adiciona strutura para o texto   |Damarcones Porto|
 |13/10 |V2      |Adiciona Definição               |Bruna Almeida|
 |13/10 |V3      |Adiciona Resultados              |Bruna e Damarcones|
-|28/10 |V4      |Adiciona prints do site          |Bruna, Damarcones|
-|30/11 |V5      |Corrigi documento                |Bruna, Damarcones|
+|28/10 |V4      |Adiciona prints do site          |Bruna e Damarcones|
+|30/11 |V5      |Corrige documento                |Bruna e Damarcones|
 
 <div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

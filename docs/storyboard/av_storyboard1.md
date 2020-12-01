@@ -60,6 +60,7 @@ Logo abaixo consta o termo de consentimento que deve ser lido pelo entrevistado.
 ## Avaliação
 
 A execução prática se deu da seguinte forma:
+
 - Via vídeo chamada o participante iniciou o compartilhamento de tela de seu computador
 - O participante foi orientado de acorodo com a tarefa descrita no storyboard
 - Houve uma breve apresentação da plataforma ao participante
@@ -68,15 +69,16 @@ A execução prática se deu da seguinte forma:
 ### Entrevista
 
 O participante repondeu às seguintes questões:
+
 - Quais suas impressões ao navegar pelo site?
 - O site de algum modo te auxilia a obter sucesso nas suas tarefas?
 - O Storyboard te ajudou a obter sucesso na sua tarefa?
 
 ## Considerações finais
 
-O participante se queixou bastante da forma como os elementos estavam dispostos, de maneira geral fora do padrão encontrado na maioria dos sites de informações públicas. O mesmo reportou que o storyboard o auxiliou na execução da tarefa alegando que depois de observa-lo pôde entender melhor o fluxo de navegação necessário para atingir seu objetivo.
+<p align="justify">O participante se queixou bastante da forma como os elementos estavam dispostos, de maneira geral fora do padrão encontrado na maioria dos sites de informações públicas. O mesmo reportou que o storyboard o auxiliou na execução da tarefa alegando que depois de observa-lo pôde entender melhor o fluxo de navegação necessário para atingir seu objetivo.</p>
 
-A sujestão de melhoria para a plataforma é que melhorem a nomeação dos elementos de modo que facilite a busca por artefatos comuns à outros sites de informações públicas.
+<p align="justify">A sujestão de melhoria para a plataforma é que melhorem a nomeação dos elementos de modo que facilite a busca por artefatos comuns à outros sites de informações públicas.</p>
 
 ## Referências
 

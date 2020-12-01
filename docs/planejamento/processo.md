@@ -1,6 +1,6 @@
 # Processo de Design
 
-<p align = "justify">O processo de design detalha as atividades básicas do design - a análise da situação atual, a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual - de uma forma particular, definindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas. <i>(Barbosa e Silva, 2010). </i></p>
+<p align = "justify">O processo de design detalha as atividades básicas do design - a análise da situação atual, a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual - de uma forma particular, definindo: como executar cada atividade; a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas <i>(Barbosa e Silva, 2010). </i></p>
 <p align = "justify">O processo de design escolhido pela equipe, para conduzir o projeto ao longo do semestre, foi a Engenharia de usabilidade de Mayhew.</p>
 
 ## Engenharia de usabilidade de Mayhew

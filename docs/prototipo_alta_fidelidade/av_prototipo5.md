@@ -82,7 +82,8 @@ Após um minuto se ambientando com o protótipo a convidada iniciou a execução
 
 ## Considerações finais
 
-Após a avaliação e entrevista pôde-se concluir que o protótipo é eficaz para a realização da tarefa proposta. Mas há aspectos secundários que poderiam melhorar, como a paleta de cores do site e a distribuição de opções no menu principal. Melhorias essas que resultariam numa melhor experiência do usuário ao navegar pelo site.
+<p align = "justify">Após a avaliação e entrevista pôde-se concluir que o protótipo é eficaz para a realização da tarefa proposta. Mas há aspectos secundários que poderiam melhorar, como a paleta de cores do site e a distribuição de opções no menu principal. Melhorias essas que resultariam numa melhor experiência do usuário ao navegar pelo site.</p>
+
 ## Referências
 - Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 

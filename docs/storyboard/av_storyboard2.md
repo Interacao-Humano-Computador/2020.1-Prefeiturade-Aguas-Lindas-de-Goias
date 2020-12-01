@@ -59,8 +59,8 @@ Perguntas respondidas pela persona: <br>
 
 ## Resultados
 
-Após a realização do teste com o usuário, foi possível validar o desenvolvimento da tarefa e do storyboard desenvolvido, além de obter possíveis erros de usabilidade observados pelo ente entrevistado.
-O avaliador observou que o usuário realizou a tarefa de maneira idêntica à análise proposta pelo grupo, tendo dificuldade com relação à falta de um botão de busca, onde o avaliador teve que auxiliar o entrevistado para dar continuidade a realização do teste.
+<p align="justify">Após a realização do teste com o usuário, foi possível validar o desenvolvimento da tarefa e do storyboard desenvolvido, além de obter possíveis erros de usabilidade observados pelo ente entrevistado.</p>
+<p align="justify">O avaliador observou que o usuário realizou a tarefa de maneira idêntica à análise proposta pelo grupo, tendo dificuldade com relação à falta de um botão de busca, onde o avaliador teve que auxiliar o entrevistado para dar continuidade a realização do teste.</p>
 
 ## Referências
 

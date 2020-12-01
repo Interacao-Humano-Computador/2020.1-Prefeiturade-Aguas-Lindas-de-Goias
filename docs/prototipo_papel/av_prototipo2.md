@@ -68,7 +68,7 @@ Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áud
 
 ## Resultados
 
-Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.
+<p align = "justify">Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de sugestões de busca com autocomplete que o protótipo inclui na realização da tarefa.</p>
 
 ## Referências
 

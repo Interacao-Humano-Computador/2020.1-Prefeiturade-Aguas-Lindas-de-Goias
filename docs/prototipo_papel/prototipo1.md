@@ -1,20 +1,20 @@
 ## Protótipo de Papel: Buscar informações sobre a Economia
 
 <figure>
-<img align=center width="850" src="../imagens/papel/tela1.jpg">
+<img align=center width="850" src="../../imagens/papel/tela1.jpg">
 <figcaption>Figura 1. Tela inicial do site da Prefeitura de Águas Lindas.
 </figcaption>
 </figure>
 
 
 <figure>
-<img align=center width="850" src="../imagens/papel/tela2.jpg">
+<img align=center width="850" src="../../imagens/papel/tela2.jpg">
 <figcaption>Figura 2. Seleção de opção de busca.</figcaption>
 </figure>
 
 
 <figure>
-<img align=center width="850" src="../imagens/papel/tela3.jpg">
+<img align=center width="850" src="../../imagens/papel/tela3.jpg">
 <figcaption>Figura 3. Página da Economia.</figcaption>
 </figure>
 

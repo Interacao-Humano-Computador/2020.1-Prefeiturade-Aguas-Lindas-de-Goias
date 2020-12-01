@@ -39,11 +39,11 @@ Não foi possível a gravação em vídeo da entrevista. Por isso apenas os áud
 
 ## Interpretação e consolidação dos resultados
 
-A realização do teste seguiu de acordo com as expectativas do avaliador e como foram propostas no planejamento da avaliação, não ocorrendo adversidades durante a entrevista. Sendo possível assim obter dados relevantes para verificação da qualidade do protótipo desenvolvido
+<p align = "justify">A realização do teste seguiu de acordo com as expectativas do avaliador e como foram propostas no planejamento da avaliação, não ocorrendo adversidades durante a entrevista. Sendo possível assim obter dados relevantes para verificação da qualidade do protótipo desenvolvido.</p>
 
 ## Resultados
 
-Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de mudar o nome da opção 'A Cidade' para 'Dados', a sujestão do avaliador é que seria melhor 'Informações'.
+<p align = "justify">Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de papel em relação ao site avaliado, devido a proposta de mudar o nome da opção 'A Cidade' para 'Dados', a sujestão do avaliador é que seria melhor 'Informações'.</p>
 
 ## Referências
 

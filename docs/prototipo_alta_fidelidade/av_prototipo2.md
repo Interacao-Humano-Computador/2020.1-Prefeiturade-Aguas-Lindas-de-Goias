@@ -82,7 +82,7 @@ Não foi possível a gravação em vídeo da entrevista. Assim será analisado a
 
 ## Resultados
 
-Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de alta fidelidade em relação ao site avaliado, devido ao layout e funcionalidades implementadas.
+<p align = "justify">Após a análise do avaliador sobre a entrevista e a revisão do questionário proposto foi possível avaliar a tarefa desenvolvida pelo protótipo. Assim , pode-se observar uma preferência do entrevistado pelo protótipo de alta fidelidade em relação ao site avaliado, devido ao layout e funcionalidades implementadas.</p>
 
 ## Referências
 
