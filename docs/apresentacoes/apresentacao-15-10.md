@@ -24,3 +24,7 @@
 |15/10 |   V0   |Criação da página|Damarcones|
 |15/10 |   V1   |Adicionando link da apresentação|Damarcones|
 |12/11 | V2   |Refatoração do documento|Bruna Almeida|
+
+</br>
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

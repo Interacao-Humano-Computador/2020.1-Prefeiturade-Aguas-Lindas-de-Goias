@@ -23,3 +23,7 @@
 |:----:|:----:|:---------:|:-----:|
 |20/09 | V0   |Criação da página|Hugo Aragão|
 |12/11 | V1   |Refatoração do documento|Bruna Almeida|
+
+</br>
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>

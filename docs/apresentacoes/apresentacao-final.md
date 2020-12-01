@@ -23,3 +23,7 @@
 |:----:|:----:|:----------------------:|:-----------:|
 |30/11 | V0   |Criação do documento    |Bruna Almeida|
 <!-- |30/11 | V1   |Adiciona vídeo e slides |Bruna Almeida| -->
+
+</br>
+
+<div> <p align = "center"><img src="../../imagens/unb-fga-extenso.jpg" width="700"></div>
